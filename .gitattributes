@@ -1,0 +1,8 @@
+# * linguist-language=[]
+# adicionar todas as linguagens que o usuário deseja  
+# * linguist-language=all
+
+# * linguist-language-group=[go]
+# * linguist-language-group-exclude=[]
+# * linguist-language-group-include=[javascript, python, ruby, scala, swift, typescript]
+# * linguist-language-group-order=[]
