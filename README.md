@@ -111,14 +111,14 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 </table>
 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 <img align='left' src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" align="center" width = "50">&nbsp;&nbsp;&nbsp;
 ### 🎓 Currently learning 
   * MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img  height=16 width=16 src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <!--   * Full Stack Django Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/postgreesql.png"/> -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
 ### 🖥️ Technologies
   [![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,nodejs,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo)](https://skillicons.dev)
