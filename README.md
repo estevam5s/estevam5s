@@ -94,6 +94,8 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 <a href="https://www.hackerrank.com/estevamsouzalau1" target="blank"><img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/></a>
  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/estevamsouza/) [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://pt.stackoverflow.com/users/167644/estevam-souza-laureth)
 
+<!-- [![Estevam Souza StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14122375)](https://stackoverflow.com/users/14122375/estevam-souza-laureth) -->
+
 <!-- ## Achievements  
 
 <table>
