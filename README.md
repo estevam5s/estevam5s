@@ -299,6 +299,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/estevamsl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/user?u=80004345">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
