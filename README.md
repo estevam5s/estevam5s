@@ -228,18 +228,6 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 </br>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/estevamsl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
  <p align="center">
 <img src="https://media.giphy.com/media/l0ExuBDAjbAI2WT3q/giphy.gif" width="300" alt="animated"/>
  </p>
@@ -293,7 +281,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 	<b>Do you like my contributions ? Nominate me for <a href='https://stars.github.com/nominate/'>Github Stars ⭐</a></b>
 </p>
 
-
 ## :sparkling_heart: Support the project <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
@@ -307,5 +294,17 @@ However, if you are using this project and are happy with it or just want to enc
 
 
 <a href="https://github.com/sponsors/estevam5s" target="_blank"><img height="40" alt="GitHub Sponsor" src = "https://img.shields.io/badge/Sponsor me on GitHub-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/estevamsl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 Thanks! :heart:
