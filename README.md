@@ -124,8 +124,14 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
   * MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img  height=16 width=16 src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <!--   * Full Stack Django Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/postgreesql.png"/> -->
 
+## :thought_balloon:  Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,regex,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
+
+## 🤯 Extra Stuff:
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,figma,ps,vscode,dotnet,wordpress,linux,php)](https://skillicons.dev)
+
 ### 🖥️ Technologies
-  [![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,nodejs,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,nodejs,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,kubernetes,firebase,gatsby,vue,nuxt,remix,pug,jest,webpack,redis,react,redux,next)](https://skillicons.dev)
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></ > 
