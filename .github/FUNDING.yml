@@ -13,7 +13,7 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
 github: [estevam5s, floydspace]
-patreon: floydspace
-issuehunt: floydspace
-ko_fi: floydspace
-custom: https://www.buymeacoffee.com/chiragdroid
+patreon: estevamsouza
+issuehunt: estevam5s
+ko_fi: estevamsouza
+custom: https://www.buymeacoffee.com/estevamsl
