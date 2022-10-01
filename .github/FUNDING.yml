@@ -12,7 +12,7 @@ otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 
-github: [estevam5s, floydspace, LekoArts, dhrumilp15, RDIL]
+github: [estevam5s, RDIL, LekoArts, floydspace, dhrumilp15]
 patreon: estevamsouza
 issuehunt: estevam5s
 ko_fi: issuehunt.io/u/estevam5s
