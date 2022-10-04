@@ -331,3 +331,7 @@ Give a ⭐️ if this project helped you!
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=estevam5s&data=followers,repositories,stars,commits)](https://github.com/estevam5s/github-widgetbox)
 
 Thanks! :heart:
+
+## Licença
+
+[MIT](/LICENSE) &copy;
