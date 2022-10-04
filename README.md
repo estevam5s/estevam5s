@@ -206,6 +206,9 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
    <img width="25%" src="https://github-contribution-stats.vercel.app/api/?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 </p>
 
+![Stats Overview](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/languages.svg)
+
 ![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=estevam5s&show_icons=true&theme=dracula)
 	
 <\details>	
