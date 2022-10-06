@@ -1,5 +1,5 @@
-import chess from './chess';
-import spotify from './spotify';
+import chess from "./chess";
+import spotify from "./spotify";
 
 export default {
   chess,

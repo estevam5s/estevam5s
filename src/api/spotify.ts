@@ -1,13 +1,13 @@
 // Packages
-import fetch from 'node-fetch';
-import { stringify } from 'querystring';
+import fetch from "node-fetch";
+import { stringify } from "querystring";
 
 // Local Imports
 import {
   MOCKED_SPOTIFY_AUDIO_FEATURES,
   MOCKED_SPOTIFY_LAST_PLAYED,
   MOCKED_SPOTIFY_TOP_PLAYED,
-} from '../data/spotify';
+} from "../data/spotify";
 import {
   SPOTIFY_AUTHORIZATION,
   SPOTIFY_AUTHORIZATION_URL,
@@ -16,9 +16,9 @@ import {
   SPOTIFY_GET_TRACK_URL,
   SPOTIFY_GET_TOP_PLAYED_URL,
   SPOTIFY_RECENTLY_PLAYED_URL,
-} from '../config';
-import { defaultCurrentlyPlayingResponse } from '../helpers/spotify';
-import { Environment } from '../helpers/environment';
+} from "../config";
+import { defaultCurrentlyPlayingResponse } from "../helpers/spotify";
+import { Environment } from "../helpers/environment";
 
 // Types
 import {
@@ -29,7 +29,7 @@ import {
   IPagingObject,
   IPlayHistoryObject,
   ITrackObject,
-} from '../types/spotify';
+} from "../types/spotify";
 
 let AuthorizationToken: null | string = null;
 
@@ -43,27 +43,30 @@ const getAuthorizationToken = async (): Promise<string> => {
     return AuthorizationToken;
   }
 
-  const GRANT_TYPE = 'refresh_token';
-  const CONTENT_TYPE = 'application/x-www-form-urlencoded';
+  const GRANT_TYPE = "refresh_token";
+  const CONTENT_TYPE = "application/x-www-form-urlencoded";
 
   const body: string = stringify({
     grant_type: GRANT_TYPE,
     refresh_token: Environment.getSpotifyRefreshToken(),
   });
 
-  const response: IAuthorizationTokenResponse = await fetch(`${SPOTIFY_AUTHORIZATION_URL}`, {
-    method: 'POST',
-    headers: {
-      'Authorization': SPOTIFY_AUTHORIZATION,
-      'Content-Type': CONTENT_TYPE,
-    },
-    body,
-  }).then((r) => r.json());
+  const response: IAuthorizationTokenResponse = await fetch(
+    `${SPOTIFY_AUTHORIZATION_URL}`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: SPOTIFY_AUTHORIZATION,
+        "Content-Type": CONTENT_TYPE,
+      },
+      body,
+    }
+  ).then((r) => r.json());
 
-  AuthorizationToken = `Bearer ${response.access_token}`
+  AuthorizationToken = `Bearer ${response.access_token}`;
 
   return AuthorizationToken;
-}
+};
 
 /**
  * Requests last played track from Spotify
@@ -86,13 +89,17 @@ const getLastPlayed = async (): Promise<ICurrentlyPlayingResponse> => {
   const { status } = response;
 
   if (status === 200) {
-    const data: ICursorBasedPagingObject<IPlayHistoryObject> = await response.json();
+    const data: ICursorBasedPagingObject<IPlayHistoryObject> =
+      await response.json();
 
-    const trackResponse: Response = await fetch(`${SPOTIFY_GET_TRACK_URL}/${ data.items[0].track.id }`, {
-      headers: {
-        Authorization,
-      },
-    });
+    const trackResponse: Response = await fetch(
+      `${SPOTIFY_GET_TRACK_URL}/${data.items[0].track.id}`,
+      {
+        headers: {
+          Authorization,
+        },
+      }
+    );
 
     const track: ITrackObject = await trackResponse.json();
 
@@ -137,18 +144,23 @@ const getNowPlaying = async (): Promise<ICurrentlyPlayingResponse> => {
  * @param {string} id Spotify track id.
  * @returns {Promise<IAudioFeaturesResponse | object>} Audio features object.
  */
-const getTracksAudioFeatures = async (id: string): Promise<IAudioFeaturesResponse | object> => {
+const getTracksAudioFeatures = async (
+  id: string
+): Promise<IAudioFeaturesResponse | object> => {
   if (Environment.useMockData()) {
     return MOCKED_SPOTIFY_AUDIO_FEATURES;
   }
-  
+
   const Authorization: string = await getAuthorizationToken();
 
-  const response: Response = await fetch(`${SPOTIFY_GET_TRACK_AUDIO_FEATURES_URL}/${id}`, {
-    headers: {
-      Authorization,
-    },
-  });
+  const response: Response = await fetch(
+    `${SPOTIFY_GET_TRACK_AUDIO_FEATURES_URL}/${id}`,
+    {
+      headers: {
+        Authorization,
+      },
+    }
+  );
 
   const { status } = response;
 
@@ -172,11 +184,14 @@ const getTopPlayed = async (timeRange: string): Promise<ITrackObject[]> => {
 
   const Authorization: string = await getAuthorizationToken();
 
-  const response: Response = await fetch(`${SPOTIFY_GET_TOP_PLAYED_URL}${timeRange}`, {
-    headers: {
-      Authorization,
-    },
-  });
+  const response: Response = await fetch(
+    `${SPOTIFY_GET_TOP_PLAYED_URL}${timeRange}`,
+    {
+      headers: {
+        Authorization,
+      },
+    }
+  );
 
   const { status } = response;
 

@@ -40,21 +40,22 @@ export const AUTH_CSS = `
 /**
  * Text color options for Text component.
  */
- export const TEXT_COLORS: object = {
-  default: 'black',
-  'grey-lighter': '#999999',
-  'gray-light': '#e1e4e8',
-  gray: '#586069',
-  'gray-dark': '#24292e',
-  'standard': 'rgba(115, 115, 115, .8)',
+export const TEXT_COLORS: object = {
+  default: "black",
+  "grey-lighter": "#999999",
+  "gray-light": "#e1e4e8",
+  gray: "#586069",
+  "gray-dark": "#24292e",
+  standard: "rgba(115, 115, 115, .8)",
 };
 
 /**
  * Text font families options for Text component.
  */
- export const TEXT_FONT_FAMILIES: object = {
-  default: '-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji',
-  mono: 'SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace',
+export const TEXT_FONT_FAMILIES: object = {
+  default:
+    "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji",
+  mono: "SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace",
 };
 
 /**

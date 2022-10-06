@@ -30,6 +30,7 @@ into `.env` file for development
 - Run `python spotify-playing.py` to server via `http://localhost:5000`
 
 # Deployment
+
 - Use Vercel serverless function https://vercel.com/docs/v2/serverless-functions/introduction
 
 Original document by @titipata
