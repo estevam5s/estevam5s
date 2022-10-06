@@ -1,5 +1,5 @@
 // Packages
-import dotenv from 'dotenv';
+import dotenv from "dotenv";
 
 dotenv.config();
 
@@ -13,7 +13,7 @@ export class Environment {
    * @returns {string} Spotify client Id.
    */
   static getSpotifyClientId(): string {
-    return process.env.SPOTIFY_CLIENT_ID || '#';
+    return process.env.SPOTIFY_CLIENT_ID || "#";
   }
 
   /**
@@ -22,7 +22,7 @@ export class Environment {
    * @returns {string} Spotify client secret.
    */
   static getSpotifyClientSecret(): string {
-    return process.env.SPOTIFY_CLIENT_SECRET || '#';
+    return process.env.SPOTIFY_CLIENT_SECRET || "#";
   }
 
   /**
@@ -31,7 +31,7 @@ export class Environment {
    * @returns {string} Spotify refresh token.
    */
   static getSpotifyRefreshToken(): string {
-    return process.env.SPOTIFY_REFRESH_TOKEN || '#';
+    return process.env.SPOTIFY_REFRESH_TOKEN || "#";
   }
 
   /**
@@ -40,7 +40,7 @@ export class Environment {
    * @returns {string} Chess.com username.
    */
   static getChessUsername(): string {
-    return process.env.CHESS_COM_USERNAME || '#';
+    return process.env.CHESS_COM_USERNAME || "#";
   }
 
   /**
@@ -49,7 +49,7 @@ export class Environment {
    * @returns {string} Server state.
    */
   static getState(): string {
-    return process.env.STATE || '#';
+    return process.env.STATE || "#";
   }
 
   /**
@@ -58,7 +58,7 @@ export class Environment {
    * @returns {string} Server environment.
    */
   static getEnvironment(): string {
-    return process.env.NODE_ENV || 'development';
+    return process.env.NODE_ENV || "development";
   }
 
   /**
@@ -67,6 +67,6 @@ export class Environment {
    * @returns {boolean}  Whether to use mock data.
    */
   static useMockData(): boolean {
-    return process.env.MOCK_DATA === 'true';
+    return process.env.MOCK_DATA === "true";
   }
 }

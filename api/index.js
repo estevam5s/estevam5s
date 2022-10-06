@@ -17,7 +17,7 @@ const default_image_path = path.join(root_path, "public/images/no_song.png");
 // Setting views and static files
 app.set("view engine", "pug");
 app.set("views", path.join(__dirname, "views"));
-app.use('/public', express.static(path.join(root_path, "public")));
+app.use("/public", express.static(path.join(root_path, "public")));
 app.use(favicon(path.join(root_path, "public", "favicon.ico")));
 
 // Client stuff
@@ -34,12 +34,12 @@ app.get("/api/song", async (request, response) => {
   let animation_delay = "";
 
   // Get "Redirect to Spotify" query param
-  let opened = request.query.opened;
+  const opened = request.query.opened;
 
   // Get spotify information
-  let current_song = await spotify.nowPlaying();
-  
-  let spotify_data = current_song || await spotify.recentlyPlayed();
+  const current_song = await spotify.nowPlaying();
+
+  const spotify_data = current_song || (await spotify.recentlyPlayed());
 
   // If spotify returns something...
   if (spotify_data) {
@@ -52,7 +52,7 @@ app.get("/api/song", async (request, response) => {
       (spotify_data.progress_ms / spotify_data.duration_ms) * 100
     );
     spotify_link = spotify_data.external_urls.spotify;
-    paused = (spotify_data.is_playing) ? "" : "paused";
+    paused = spotify_data.is_playing ? "" : "paused";
     animation_delay = `animation: progress ${duration}ms linear; animation-delay: -${progress}ms;`;
 
     // If someone comes from Github, redirect them to Spotify
@@ -71,7 +71,7 @@ app.get("/api/song", async (request, response) => {
       artist,
       spotify_link,
       paused,
-      animation_delay
+      animation_delay,
     });
   }
 });
@@ -84,7 +84,7 @@ app.get("/api/", (request, response) => {
 // Some utils functions
 function getArtists(array) {
   let artists = "";
-  for (let artist of array) {
+  for (const artist of array) {
     artists += artist.name + ", ";
   }
   if (artists.length) return artists.slice(0, -2);
@@ -92,7 +92,8 @@ function getArtists(array) {
 }
 
 function defaultImageToBase64(image_path) {
-  let data_uri = "data:image/png;base64," + fs.readFileSync(image_path, 'base64');
+  const data_uri =
+    "data:image/png;base64," + fs.readFileSync(image_path, "base64");
   return data_uri;
 }
 

@@ -2,24 +2,24 @@
 // @ts-check
 
 // module aliases
-var Engine = Matter.Engine,
-  Render = Matter.Render,
-  World = Matter.World,
-  Svg = Matter.Svg,
-  Bodies = Matter.Bodies;
+const Engine = Matter.Engine;
+const Render = Matter.Render;
+const World = Matter.World;
+const Svg = Matter.Svg;
+const Bodies = Matter.Bodies;
 
 // create an engine
-var engine = Engine.create();
+const engine = Engine.create();
 
 // create a renderer
-var render = Render.create({
+const render = Render.create({
   element: document.body,
-  engine: engine,
+  engine,
   options: {
     width: 800,
     height: 400,
     background: "#fafafa",
-    wireframes: false
+    wireframes: false,
   },
 });
 
@@ -38,19 +38,24 @@ const yMargin = 4;
 
 const font = [];
 const letters = document.getElementById("orta")?.querySelectorAll("path");
-letters.forEach(path => {
-  font.push(Svg.pathToVertices(path, 10))
+letters.forEach((path) => {
+  font.push(Svg.pathToVertices(path, 10));
 });
-World.add(engine.world, Bodies.fromVertices(390, 150, font, { isStatic: true, render: { fillStyle: "fafafa"} }));
-
+World.add(
+  engine.world,
+  Bodies.fromVertices(390, 150, font, {
+    isStatic: true,
+    render: { fillStyle: "fafafa" },
+  })
+);
 
 // Timeline
 const bodies = [];
 for (let i = 0; i < weeks; i++) {
   for (let j = 0; j < days; j++) {
     const color = colors[Math.floor(Math.random() * colors.length)];
-    const x = xOffset + (i * 10) + ((i - 1) * xMargin)
-    const y = yOffset + (j * 10) + ((j - 1) * yMargin)
+    const x = xOffset + i * 10 + (i - 1) * xMargin;
+    const y = yOffset + j * 10 + (j - 1) * yMargin;
     const square = Bodies.rectangle(x, y, 10, 10, {
       render: { fillStyle: color },
       density: 20,

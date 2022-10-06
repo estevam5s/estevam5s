@@ -1,5 +1,5 @@
 interface IArtistSimplifiedObject {
-  external_urls: object
+  external_urls: object;
   href: string;
   id: string;
   name: string;
@@ -15,12 +15,12 @@ interface IImageObject {
 
 interface IAlbumSimplifiedObject {
   album_type: string;
-  artists: Array<IArtistSimplifiedObject>
-  available_markets: Array<string>
+  artists: Array<IArtistSimplifiedObject>;
+  available_markets: Array<string>;
   external_urls: object;
   href: string;
   id: string;
-  images: Array<IImageObject>
+  images: Array<IImageObject>;
   name: string;
   release_date: string;
   release_date_precision: string;
@@ -35,8 +35,8 @@ interface IExternalUrls {
 
 export interface ITrackObject {
   album: IAlbumSimplifiedObject;
-  artists: Array<IArtistSimplifiedObject>
-  available_markets: Array<string>
+  artists: Array<IArtistSimplifiedObject>;
+  available_markets: Array<string>;
   disc_number: number;
   duration_ms: number;
   explicit: boolean;
@@ -65,24 +65,24 @@ export interface ICurrentlyPlayingResponse {
 }
 
 export interface IAudioFeaturesResponse {
-  duration_ms : number;
-  key : number;
-  mode : number;
-  time_signature : number;
-  acousticness : number;
-  danceability : number;
-  energy : number;
-  instrumentalness : number;
-  liveness : number;
-  loudness : number;
-  speechiness : number;
-  valence : number;
-  tempo : number;
-  id : string;
-  uri : string;
-  track_href : string;
-  analysis_url : string;
-  type : string;
+  duration_ms: number;
+  key: number;
+  mode: number;
+  time_signature: number;
+  acousticness: number;
+  danceability: number;
+  energy: number;
+  instrumentalness: number;
+  liveness: number;
+  loudness: number;
+  speechiness: number;
+  valence: number;
+  tempo: number;
+  id: string;
+  uri: string;
+  track_href: string;
+  analysis_url: string;
+  type: string;
 }
 
 export interface ICursorBasedPagingObject<T> {

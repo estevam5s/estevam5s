@@ -1,10 +1,10 @@
 // Types
-import { IAudioFeaturesResponse } from '../../../types/spotify';
+import { IAudioFeaturesResponse } from "../../../types/spotify";
 
 /**
  * Style for NowPlaying component.
  *
- * @param {IAudioFeaturesResponse} audioFeatures 
+ * @param {IAudioFeaturesResponse} audioFeatures
  * @param {number} duration Duration of track in milliseconds.
  * @param {number} progress Current playback progress in milliseconds.
  * @returns {string} CSS for Component.
@@ -12,8 +12,8 @@ import { IAudioFeaturesResponse } from '../../../types/spotify';
 export const NOW_PLAYING_CSS = (
   audioFeatures: IAudioFeaturesResponse,
   duration: number,
-  progress: number,
-) => (`
+  progress: number
+) => `
 .now-playing-wrapper {
   display: flex;
   justify-content: center;
@@ -92,8 +92,12 @@ img:not([src]) {
 .bar {
   --offset: 0;
 
-  animation: bars ${ audioFeatures ? (audioFeatures.tempo / 60) * 1 : 1 }s ease calc(var(--offset) * -.5s) infinite;
-  background: rgba(${ audioFeatures ? audioFeatures.energy * 255 : 255 }, ${ audioFeatures ? audioFeatures.valence * 255 : 255 }, ${ audioFeatures ? audioFeatures.danceability * 255 : 255 }, .7);
+  animation: bars ${
+    audioFeatures ? (audioFeatures.tempo / 60) * 1 : 1
+  }s ease calc(var(--offset) * -.5s) infinite;
+  background: rgba(${audioFeatures ? audioFeatures.energy * 255 : 255}, ${
+  audioFeatures ? audioFeatures.valence * 255 : 255
+}, ${audioFeatures ? audioFeatures.danceability * 255 : 255}, .7);
   height: 10px;
   margin: 2px 0;
   width: 50px;
@@ -172,7 +176,7 @@ img:not([src]) {
     width: 25%;
   }
 }
-`);
+`;
 
 export const TOP_PLAYED_CSS = `
 .top-played-wrapper {
@@ -284,7 +288,7 @@ img:not([src]) {
  * Titles for TopPlayed lists.
  */
 export const TOP_PLAYED_LIST_TITLES = [
-  'all time favorites',
-  'monthly favorites',
-  'current favorites',
+  "all time favorites",
+  "monthly favorites",
+  "current favorites",
 ];

@@ -4,15 +4,12 @@ import {
   CHESS_PIECES,
   EMPTY_CHESS_BOARD_FEN,
   GITHUB_CHESS_IMAGES_DIRECTORY_URL,
-} from '../config';
-import { Environment } from '../helpers/environment';
-import { getImageData } from './image';
+} from "../config";
+import { Environment } from "../helpers/environment";
+import { getImageData } from "./image";
 
 // Types
-import {
-  IConvertedGameObject,
-  ICurrentDailyGame,
-} from '../types/chess';
+import { IConvertedGameObject, ICurrentDailyGame } from "../types/chess";
 
 /**
  * Converts recieved game objects to simplified objects.
@@ -20,10 +17,12 @@ import {
  * @param {ICurrentDailyGame} game Recieved game object.
  * @returns {IConvertedGameObject} Converted game object.
  */
-export const convertGameObject = (game: ICurrentDailyGame): IConvertedGameObject => {
+export const convertGameObject = (
+  game: ICurrentDailyGame
+): IConvertedGameObject => {
   const isWhite: boolean = game.white.includes(Environment.getChessUsername());
-  const white: string = (game.white.split('/').reverse())[0];
-  const black: string = (game.black.split('/').reverse())[0];
+  const white: string = game.white.split("/").reverse()[0];
+  const black: string = game.black.split("/").reverse()[0];
 
   return {
     black,
@@ -54,11 +53,14 @@ export const createEmptyGameObject = (): IConvertedGameObject => ({
  * @param {string} fen The FEN string.
  * @returns {(string | null)[][]} Array of positon.
  */
-export const convertFenToArray = (isWhite: boolean, fen: string): (string | null)[][] => {
+export const convertFenToArray = (
+  isWhite: boolean,
+  fen: string
+): (string | null)[][] => {
   const finalPosition: (string | null)[][] = [];
 
-  const position: string = fen.slice(0, fen.indexOf(' '));
-  const rows: string[] = position.split('/');
+  const position: string = fen.slice(0, fen.indexOf(" "));
+  const rows: string[] = position.split("/");
 
   if (!isWhite) {
     rows.reverse();
@@ -67,7 +69,7 @@ export const convertFenToArray = (isWhite: boolean, fen: string): (string | null
   for (let i = 0; i < rows.length; i++) {
     finalPosition.push([]);
     for (let j = 0; j < rows[i].length; j++) {
-      if (rows[i][j] >= '1' && rows[i][j] <= '9') {
+      if (rows[i][j] >= "1" && rows[i][j] <= "9") {
         for (let k = 0; k < parseInt(rows[i][j], 10); k++) {
           finalPosition[i].push(null);
         }
@@ -81,7 +83,7 @@ export const convertFenToArray = (isWhite: boolean, fen: string): (string | null
   }
 
   return finalPosition;
-}
+};
 
 /**
  * Loads the images into a buffer, only does this once per image.
@@ -91,7 +93,9 @@ export const getPieces = async (): Promise<object> => {
 
   for (const color of CHESS_COLORS) {
     for (const piece of CHESS_PIECES) {
-      pieceImages[`${color}-${piece}`] = await getImageData(`${GITHUB_CHESS_IMAGES_DIRECTORY_URL}${color}-${piece}.png`);
+      pieceImages[`${color}-${piece}`] = await getImageData(
+        `${GITHUB_CHESS_IMAGES_DIRECTORY_URL}${color}-${piece}.png`
+      );
     }
   }
 
