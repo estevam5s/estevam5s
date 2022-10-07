@@ -211,7 +211,6 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 ![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=estevam5s&show_icons=true&theme=dracula)
 
-
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 
 <!-- ## 🤝 Feel free to Connect with me :
