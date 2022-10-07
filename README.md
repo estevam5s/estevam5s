@@ -210,7 +210,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 ![Most Used Languages](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/languages.svg)
 
 ![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=estevam5s&show_icons=true&theme=dracula)
-<\details>
+
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 
