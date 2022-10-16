@@ -12,7 +12,7 @@ def makeCommits (days):
         os.system('git add data.txt')
 
         # commit 
-        os.system('git commit --date="'+ dates +'" -m "First commit for the day!"')
+        os.system('git commit --date="'+ dates +'" -m "➕ adding new feature in profile readme on github"')
 
         # days * makeCommits(days - 1)
 
