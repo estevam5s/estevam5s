@@ -7,7 +7,7 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/estevam5s/estevam5s" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/estevam5s/estevam5s" /> <img alt="" src="https://img.shields.io/github/repo-size/estevam5s/estevam5s" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/estevam5s/estevam5s" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/estevam5s/estevam5s" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/estevam5s/estevam5s" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/estevam5s/estevam5s" /> <img alt="GitHub Package.json Version" src="https://img.shields.io/github/package-json/v/estevam5s/estevam5s" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/estevam5s/estevam5s" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/estevam5s/estevam5s" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/estevam5s/estevam5s" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/estevam5s/estevam5s" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/estevam5s/estevam5s" /> <img alt="Github License" src="https://img.shields.io/github/license/estevam5s/estevam5s" />
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/estevam5s/estevam5s" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/estevam5s/estevam5s" /> <img alt="" src="https://img.shields.io/github/repo-size/estevam5s/estevam5s" /> <img alt="GitHub Issues" src="https://img.shields.io/github/issues/estevam5s/estevam5s" /> <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/estevam5s/estevam5s" /> <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/estevam5s/estevam5s" /> <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/estevam5s/estevam5s" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/estevam5s/estevam5s" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/estevam5s/estevam5s" /> <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/estevam5s/estevam5s" /> <img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/estevam5s/estevam5s" /> <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/estevam5s/estevam5s" /> <img alt="Github License" src="https://img.shields.io/github/license/estevam5s/estevam5s" />
 
 <!--
 <p align="center">
@@ -24,18 +24,16 @@
   <img src="https://raw.githubusercontent.com/tavignesh/github-stats-1/master/generated/languages.svg" alt="top-langs" />
   <br />
 </p>
-
-![GitStats Overview - Light](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
-
 -->
+
+<!-- ![Stats Overview](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/languages.svg)
+
+![GitStats Overview - Light](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only) -->
 
  <p>
 <h1 align="center"><b><img src="https://media.giphy.com/media/KzV5NWeRokeOgfZtnQ/giphy.gifhttps://media.giphy.com/media/oX8Wh3bwHJ0TFTlT6J/giphy.gif" width="100">Welcome to my world! </b><img align= "center" src="https://media.giphy.com/media/ZmcpQkCL0SBESH0V03/giphy.gif" width="130" alt="animated"/></h1> 
  </p>
-
-<img src="https://rand-xyz.now.sh/api/hello">
-
-<img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
 
 <p align="center">
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Estevamsl&label=Profile%20views&color=111111&style=flat" />
@@ -123,17 +121,21 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 - MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img  height=16 width=16 src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <!--   * Full Stack Django Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/python.png"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/postgreesql.png"/> -->
 
-## :thought_balloon: Languages and Tools:
+<img src="https://rand-xyz.now.sh/api/hello">
+
+## 🤯 Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,styledcomponents,sass,js,jquery,regex,ts,bash,powershell,git,github,heroku,netlify,vercel)](https://skillicons.dev)
 
 ## 🤯 Extra Stuff:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,figma,ps,vscode,dotnet,wordpress,linux,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,vscode,linux,webpack,redis,react,redux,next,php)](https://skillicons.dev)
 
 ### 🖥️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,nodejs,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,kubernetes,firebase,gatsby,vue,nuxt,remix,pug,jest,webpack,redis,react,redux,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,nodejs,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,kubernetes,firebase,gatsby,vue,nuxt,remix,pug,jest)](https://skillicons.dev)
+
+<img src="https://rand-xyz.now.sh/api/hello">
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/EAZNrYsT7fzttW2lgf/giphy.gif" width="100"></ > 
@@ -146,13 +148,13 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 [![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=167644)](https://github.com/harish-sethuraman/readme-components) -->
 
-<p align="center"><i><b>Leetcode</b></i></p>
+<!-- <p align="center"><i><b>Leetcode</b></i></p>
 
 <p align="center">
   <a href="https://leetcode.com/estevamsouza">
     <img title="Manthanank's LeetCode Stats" alt="Manthanank's LeetCode Stats" src="https://leetcard.jacoblin.cool/estevamsouza/" />
   </a>
-</p>
+</p> -->
 
 <details>
   <br />
@@ -202,7 +204,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
   <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 </p>
 <p align="righ">
-   <img width="25%" src="https://github-contribution-stats.vercel.app/api/?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+   <img width="25%" src="https://github-contribution-stats.vercel.app/api/?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/>
 </p>
 
 ![Stats Overview](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/overview.svg)
@@ -219,8 +221,6 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=estevam5s&theme=onedark)](https://github.com/estevam5s/github-profile-trophy)
-
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -330,3 +330,5 @@ Thanks! :heart:
 ## Licença
 
 [MIT](/LICENSE) &copy;
+
+<img src="https://user-images.githubusercontent.com/62628408/157836760-fcd8135e-7c17-4063-ad43-db139a9160db.gif" width="100%">
