@@ -307,6 +307,37 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
+
+<!-- ko-fi icon -->
+
+<a href="https://ko-fi.com/kfields91" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=2" alt="Ko-fi" height="41" width="174">
+</a>
+
+<!-- liberapay icon -->
+
+<a href="https://liberapay.com/kfields91/donate" target="_blank">
+  <img src="https://liberapay.com/assets/widgets/donate.svg" alt="Liberapay" height="41" width="174">
+</a>
+
+<!-- opencollective icon -->
+
+<a href="https://opencollective.com/kfields91" target="_blank">
+  <img src="https://opencollective.com/static/images/become_backer.svg" alt="Open Collective" height="41" width="174">
+</a>
+
+<!-- github sponsors icon -->
+
+<a href="https://github.com/sponsors/kfields91" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/site/sponsors/funding-platform-logos/sponsor-button.png" alt="GitHub Sponsors" height="41" width="174">
+</a>
+
+<!-- issuehunt icon -->
+
+<a href="https://issuehunt.io/r/kfields91/DevSite" target="_blank">
+  <img src="https://issuehunt.io/static/embed/issuehunt-button-v1.svg" alt="IssueHunt" height="41" width="174">
+</a>
+
 🚧 **my todoist stats:**
 
 <!-- TODO-IST:START -->
