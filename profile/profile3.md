@@ -10,6 +10,5 @@ Estudando/trabalhando na **nome do lugar**<br/>
 
 Eu sou desenvolvedor **sua área**.
 
-
 </p>
 <hr>
