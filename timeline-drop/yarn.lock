@@ -2,17 +2,17 @@
 # yarn lockfile v1
 
 
-"@types/matter-js@^0.14.4":
-  version "0.14.4"
-  resolved "https://registry.yarnpkg.com/@types/matter-js/-/matter-js-0.14.4.tgz#5d481b777677501da53c49a5e2b29fc65aa89f06"
-  integrity sha512-OmRZgx1m2JYp3W8qfN+QwOxEPOJybrM3w+s860a3s7nJnCKoDok3Qa/DUOlURgWr3mHpTGBBmUMMpR+inPZ53A==
+"@types/matter-js@^0.18.0":
+  "integrity" "sha512-W9UC9DOPNBRTUocqqPZmzX3cbHmlZBI9jLn6SuxZz0n5QrPk382Ig3hbBWHqYU8TRUmTCJJhuanXeyMTavF7Mg=="
+  "resolved" "https://registry.npmjs.org/@types/matter-js/-/matter-js-0.18.2.tgz"
+  "version" "0.18.2"
 
-matter-js@^0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/matter-js/-/matter-js-0.14.2.tgz#8169af9e06fdc356ba9e72b49624eb329839883b"
-  integrity sha512-3ttVT8cJlQnGRjBa8MyVrGyvGmnmOkZ3YsyemIw+KwEEdVi70mo32FH1Eta2b3GfdDJFbMDRqyMQt4heNKBUEA==
+"matter-js@^0.18.0":
+  "integrity" "sha512-/ZVem4WygUnbmo/iE4oHZpZS97btfBtYy5Iwn1396vUZU7YhgVEN8J4UWwfZwY1ZqoTYlPgjvSw9WXauuXL0mg=="
+  "resolved" "https://registry.npmjs.org/matter-js/-/matter-js-0.18.0.tgz"
+  "version" "0.18.0"
 
-poly-decomp@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/poly-decomp/-/poly-decomp-0.3.0.tgz#aa499289bbc1a4ca2213e966587fa5bffc1ca5f5"
-  integrity sha512-hWeBxGzPYiybmI4548Fca7Up/0k1qS5+79cVHI9+H33dKya5YNb9hxl0ZnDaDgvrZSuYFBhkCK/HOnqN7gefkQ==
+"poly-decomp@^0.3.0":
+  "integrity" "sha1-qkmSibvBpMoiE+lmWH+lv/wcpfU="
+  "resolved" "https://registry.npm.taobao.org/poly-decomp/download/poly-decomp-0.3.0.tgz"
+  "version" "0.3.0"
