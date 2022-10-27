@@ -311,7 +311,6 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-
 <!-- ko-fi icon -->
 
 <a href="https://ko-fi.com/kfields91" target="_blank">
