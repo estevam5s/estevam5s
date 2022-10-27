@@ -1,3 +1,5 @@
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Estevam-🔰-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -41,7 +43,9 @@
 <img alt="Dev Card" src="https://img.shields.io/badge/DevCard-estevam-black" href="https://devcard.link/8KV1Pd" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5400&color=5CB635&lines=server-side+developer+building+ideas;Open+source)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <!--
 <p align="righ">
@@ -158,7 +162,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 <details>
   <br />
-   <summary><b>🥇 Metrics</b></summary>
+   <summary><b>🥉 Metrics</b></summary>
   	<img align='left' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
 
 ![Metrics](https://metrics.lecoq.io/estevam5s?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&followup=1&reactions=1&people=1&introduction=1&sponsors=1&repositories=1&discussions=1&starlists=1&calendar=1&achievements=1&notable=1&activity=1&traffic=1&code=1&gists=1&projects=1&pagespeed=1&tweets=1&anilist=1&music=1&posts=1&rss=1&wakatime=1&fortune=1&nightscout=1&poopmap=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=true&people.identicons.hide=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=false&sponsors.size=24&sponsors.title=Sponsor%20Me!&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=true&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=S&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=true&notable.indepth=true&notable.types=commit&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&traffic=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=true&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=true&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&music=false&music.user=.user.login&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&posts=false&posts.user=.user.login&posts.descriptions=true&posts.covers=true&posts.limit=4&rss=false&rss.limit=4&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=true&wakatime.repositories.visibility=all&fortune=false&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&poopmap=false&poopmap.days=7&screenshot=false&screenshot.title=Screenshot&screenshot.selector=body&screenshot.background=false&config.timezone=America%2FSao_Paulo)
@@ -194,23 +198,18 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 <details>
   <br />
-   <summary><b>🥉 Github Stats</b></summary>
+   <summary><b>🥇 Github Stats</b></summary>
 	
 <p align="center">
   <img width="42.7%" src="https://awesome-github-stats.azurewebsites.net/user-stats/estevam5s?cardType=github&theme=dracula&Title=FFFFFF&Border=D93BDD&Background=000000&Text=FFFFFF&Ring=DD2C5A" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=estevam5s&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam5s&langs_count=50&count_private=true&layout=compact&theme=dracula"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevam5s&theme=dracula" />
   <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 </p>
 <p align="righ">
-   <img width="25%" src="https://github-contribution-stats.vercel.app/api/?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/>
+   <img width="25%" src="https://github-contribution-stats.vercel.app/api/?username=estevam5s&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"/> <img width="25%" src="https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/overview.svg"/> <img width="25%" src="https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/languages.svg"/>
 </p>
 
-![Stats Overview](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/estevam5s/github-stats-transparent/output/generated/languages.svg)
-
-![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=estevam5s&show_icons=true&theme=dracula)
+<!-- ![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=estevam5s&show_icons=true&theme=dracula) -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
 
@@ -226,7 +225,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 </details>
 <details>	
-  <summary><b>🥈 Github Streaks</b></summary>
+  <summary><b>🥇 Github Streaks</b></summary>
 
 ### 🐍 Watch a Snake eat my Contribution Graph :
 
@@ -247,7 +246,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 </details>
 
 <details>	
-  <summary><b>🥇 Organizations</b></summary>
+  <summary><b>🥈 Organizations</b></summary>
 
 ### Organizations that I have contributed to :
 
@@ -310,6 +309,36 @@ Give a ⭐️ if this project helped you!
 
 <a href="https://www.patreon.com/estevamsouza">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+<!-- ko-fi icon -->
+
+<a href="https://ko-fi.com/kfields91" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=2" alt="Ko-fi" height="41" width="174">
+</a>
+
+<!-- liberapay icon -->
+
+<a href="https://liberapay.com/kfields91/donate" target="_blank">
+  <img src="https://liberapay.com/assets/widgets/donate.svg" alt="Liberapay" height="41" width="174">
+</a>
+
+<!-- opencollective icon -->
+
+<a href="https://opencollective.com/kfields91" target="_blank">
+  <img src="https://opencollective.com/static/images/become_backer.svg" alt="Open Collective" height="41" width="174">
+</a>
+
+<!-- github sponsors icon -->
+
+<a href="https://github.com/sponsors/kfields91" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/site/sponsors/funding-platform-logos/sponsor-button.png" alt="GitHub Sponsors" height="41" width="174">
+</a>
+
+<!-- issuehunt icon -->
+
+<a href="https://issuehunt.io/r/kfields91/DevSite" target="_blank">
+  <img src="https://issuehunt.io/static/embed/issuehunt-button-v1.svg" alt="IssueHunt" height="41" width="174">
 </a>
 
 🚧 **my todoist stats:**
