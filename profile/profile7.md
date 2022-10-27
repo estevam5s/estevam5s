@@ -10,14 +10,14 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 object **SEU NOME** {
  val name = "SEU NOME COMPLETO"
  val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
+
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
 
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Linguagens e Ferramentas:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -29,7 +29,6 @@ object **SEU NOME** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
 
 ## **GitHub Estatísticas**
 
@@ -46,13 +45,13 @@ object **SEU NOME** {
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+🏡 [website][website] **|**
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|**
+📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
-

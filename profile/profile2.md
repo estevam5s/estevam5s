@@ -1,17 +1,17 @@
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
 }
 ```
 
@@ -30,4 +30,4 @@ class Skills extends Desenvolvedor {
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+</p>
