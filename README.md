@@ -329,12 +329,6 @@ Give a ⭐️ if this project helped you!
   <img src="https://opencollective.com/static/images/become_backer.svg" alt="Open Collective" height="41" width="174">
 </a>
 
-<!-- github sponsors icon -->
-
-<a href="https://github.com/sponsors/kfields91" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/site/sponsors/funding-platform-logos/sponsor-button.png" alt="GitHub Sponsors" height="41" width="174">
-</a>
-
 <!-- issuehunt icon -->
 
 <a href="https://issuehunt.io/r/kfields91/DevSite" target="_blank">
