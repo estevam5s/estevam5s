@@ -1,6 +1,6 @@
 # 🏄‍♂️ Estevam Souza
 
-**`Programmer (Developer/Backend/Full-Stack)`**
+**`Programmer (Developer/Backend/Node)`**
 
 My name is Estevam Souza from Brazil (🇧🇷). I'm passionate about open source projects and I've always loved to produce a lot of content during my career
 I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
