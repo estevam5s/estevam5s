@@ -50,8 +50,6 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=estevam5s&theme=onedark)](https://github.com/estevam5s/github-profile-trophy)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 </details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
