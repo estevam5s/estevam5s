@@ -21,7 +21,7 @@ In my free time I like to play (and watch) soccer (⚽️), to watch movies (�
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,kubernetes,firebase,gatsby,vue,nuxt,remix,pug,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,kubernetes,gatsby,vue,pug)](https://skillicons.dev)
 
 #
 
