@@ -1,6 +1,9 @@
 # Estevam Souza
 
-**`Programmer (Nestjs Developer)`**
+<h4>
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+  Programmer (Nestjs Developer)
+</h4>
 
 My name is Estevam Souza from Brazil (🇧🇷). I'm passionate about open source projects and I've always loved to produce a lot of content during my career
 I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
