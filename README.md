@@ -27,7 +27,7 @@ I am an enthusiastic JavaScript developer who loves solving difficult technical 
 
 <!-- ### 🧰 Languages and Tools
  -->
-[![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,kubernetes,gatsby,vue,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,jest,apollo,jenkins,pug)](https://skillicons.dev)
 
 <!-- <details>
   <br />
