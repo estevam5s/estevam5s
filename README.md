@@ -12,6 +12,8 @@ I am an enthusiastic JavaScript developer who loves solving difficult technical 
 * My favorite Framework is the &emsp; ![NestJs](https://img.shields.io/static/v1?style=flat-square&logo=nestJs&logoColor=blue&label=&labelColor=white&message=NestJs&color=16171d)
 * In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a whisky (🍺)
 
+![Estevam GitHub stats](https://github-readme-stats.vercel.app/api?username=estevam5s&show_icons=true&theme=dracula&count_private=true)
+
 <!-- <p align="center"> -->
 <!--   <a href="https://rakesh.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 <!-- 	<a href="mailto:estevamsouzalaureth@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
