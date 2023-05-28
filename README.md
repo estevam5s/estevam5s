@@ -9,7 +9,7 @@
 * I'm passionate about open source projects and I've always loved to produce a lot of content during my career
 I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
 * TypeScript, JavaScript, Node, Nest, Express are my specialists.
-* My favorite Framework is the &emsp; ![NestJs](https://img.shields.io/static/v1?style=flat-square&logo=nestJs&logoColor=blue&label=&labelColor=white&message=NestJs&color=16171d)
+* My favorite Framework is the &emsp;
 * In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a whisky (🍺)
 
 <p align="center">
