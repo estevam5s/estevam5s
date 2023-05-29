@@ -3,12 +3,16 @@
   Programmer (Nestjs Developer)
 </h4>
 
-* My name is Estevam Souza from Brazil (🇧🇷).
-* I'm passionate about open source projects and I've always loved to produce a lot of content during my career
-I am an enthusiastic JavaScript developer who loves solving difficult technical issues.
-* TypeScript, JavaScript, Node, Nest, Express are my specialists.
-* My favorite Framework is the &emsp;
-* In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a whisky (🍺)
+| **About Me**                                                    |
+|-----------------------------------------------------------------|
+| My name is Estevam Souza from Brazil (🇧🇷).                      |
+| I'm passionate about open source projects and I've always loved to produce a lot of content during my career. I am an enthusiastic JavaScript developer who loves solving difficult technical issues. |
+| **Specialties**                                                  |
+| TypeScript, JavaScript, Node, Nest, Express                       |
+| **Favorite Framework**                                           |
+| [Framework Name]                                                  |
+| **Interests**                                                    |
+| In my free time, I enjoy playing (and watching) soccer (⚽️), watching movies (🎞️) and series (📺), reading books (📚), listening to music (🎵), and occasionally philosophizing about life with a whisky (🍺).
 
 <p align="center">
 	<a href="https://github.com/estevam5s">
