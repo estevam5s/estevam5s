@@ -2,6 +2,18 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   Programmer (Nestjs Developer)
 </h4>
+<p align="left">
+  <a href="https://github.com/estevam5s">
+    <img src="https://komarev.com/ghpvc/?username=estevam5s" alt="page views">
+  </a>
+  <a href="https://github.com/estevam5s?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
 
 #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
@@ -202,5 +214,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
-![pv](https://pageview.vercel.app/?github_user=estevam5s)
+<!-- ![pv](https://pageview.vercel.app/?github_user=estevam5s) -->
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
