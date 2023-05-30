@@ -1,6 +1,5 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevam5s&theme=default) -->
 
 <h4>
@@ -19,19 +18,18 @@
   </a>
 </p>
 
+#### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README.md)</kbd>
 
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
-
-
-| **About Me**                                                    |
-|-----------------------------------------------------------------|
-| My name is Estevam Souza from Brazil (🇧🇷).                      |
+| **About Me**                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| My name is Estevam Souza from Brazil (🇧🇷).                                                                                                                                                            |
 | I'm passionate about open source projects and I've always loved to produce a lot of content during my career. I am an enthusiastic JavaScript developer who loves solving difficult technical issues. |
-| **Specialties**                                                  |
-| TypeScript, JavaScript, Node, Nest, Express                       |
-| **Favorite Framework**                                           |
-| [Framework Name]                                                  |
-| **Interests**                                                    |
+| **Specialties**                                                                                                                                                                                       |
+| TypeScript, JavaScript, Node, Nest, Express                                                                                                                                                           |
+| **Favorite Framework**                                                                                                                                                                                |
+| [Framework Name]                                                                                                                                                                                      |
+| **Interests**                                                                                                                                                                                         |
+
 | In my free time, I enjoy playing (and watching) soccer (⚽️), watching movies (🎞️) and series (📺), reading books (📚), listening to music (🎵), and occasionally philosophizing about life with a whisky (🍺).
 
 <p align="center">
@@ -173,9 +171,10 @@
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=estevam5s&theme=onedark)](https://github.com/estevam5s/github-profile-trophy) -->
-<!-- 
+<!--
 </details>
  -->
+
 ## :sparkling_heart: Support the project <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,

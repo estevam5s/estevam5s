@@ -1,28 +1,45 @@
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevam5s&theme=default) -->
+
 <h4>
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   Programmer (Nestjs Developer)
 </h4>
+<p align="left">
+  <a href="https://github.com/estevam5s">
+    <img src="https://komarev.com/ghpvc/?username=estevam5s" alt="page views">
+  </a>
+  <a href="https://github.com/estevam5s?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-#### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README.md)</kbd>
+#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
-
-| **About Me**                                                    |
-|-----------------------------------------------------------------|
-| My name is Estevam Souza from Brazil (🇧🇷).                      |
+| **About Me**                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| My name is Estevam Souza from Brazil (🇧🇷).                                                                                                                                                            |
 | I'm passionate about open source projects and I've always loved to produce a lot of content during my career. I am an enthusiastic JavaScript developer who loves solving difficult technical issues. |
-| **Specialties**                                                  |
-| TypeScript, JavaScript, Node, Nest, Express                       |
-| **Favorite Framework**                                           |
-| [Framework Name]                                                  |
-| **Interests**                                                    |
+| **Specialties**                                                                                                                                                                                       |
+| TypeScript, JavaScript, Node, Nest, Express                                                                                                                                                           |
+| **Favorite Framework**                                                                                                                                                                                |
+| [Framework Name]                                                                                                                                                                                      |
+| **Interests**                                                                                                                                                                                         |
+
 | In my free time, I enjoy playing (and watching) soccer (⚽️), watching movies (🎞️) and series (📺), reading books (📚), listening to music (🎵), and occasionally philosophizing about life with a whisky (🍺).
 
 <p align="center">
-	<a href="https://github.com/estevam5s">
+<!-- 	<a href="https://github.com/estevam5s">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam5s&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
 	<a href="https://github.com/estevam5s">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=estevam5s&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="crazycoderstein's Github Stats" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=estevam5s&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="crazycoderstein's Github Stats" /> -->
+	<a href="https://github.com/estevam5s">
+		<img align="center" src="https://streak-stats.demolab.com?user=estevam5s&theme=radical&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=756&stroke=C522EB" alt="crazycoderstein's Github Stats" />
 	</a>
 </p>
 <!-- <p align="center"> -->
@@ -47,85 +64,90 @@
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="50" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="35" height="35" />
     </td>
     <td align="center" width="35">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
       </a>
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="35" height="35" />
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="35" height="35" />
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="35" height="35" />
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="35" height="35" />
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="35" height="35" />
     </td>
     <td align="center" width="35">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="35" height="35" />
+    </td>
+    <td align="center" width="35">
+    	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="35">
+    </td>
+    <td align="center" width="35">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="35">
     </td>
   </tr>
   <tr>
   </tr>
 </div>
-
 
 <!-- <details>
   <br />
@@ -149,9 +171,10 @@
 <a href="https://twitter.com/krishnapro_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" width="80" height="20"></a> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=estevam5s&theme=onedark)](https://github.com/estevam5s/github-profile-trophy) -->
-<!-- 
+<!--
 </details>
  -->
+
 ## :sparkling_heart: Support the project <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
@@ -166,7 +189,7 @@ However, if you are using this project and are happy with it or just want to enc
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/estevamsl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/estevamsl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a> <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 <!-- Give a ⭐️ if this project helped you!
 
@@ -200,4 +223,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+<!-- ![pv](https://pageview.vercel.app/?github_user=estevam5s) -->
+<p align="center">
+  <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
