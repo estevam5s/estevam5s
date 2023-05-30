@@ -1,4 +1,4 @@
-name: Generate Datas
+name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule: # execute every 12 hours
@@ -17,7 +17,7 @@ jobs:
           github_user_name: estevam5s
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: Platane/snk@v2.2.1
         with:
           target_branch: output
           build_dir: dist
