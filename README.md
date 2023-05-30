@@ -1,3 +1,5 @@
+
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="565">
 <br
 
@@ -140,6 +142,13 @@
     <td align="center" width="35">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="41" height="41" />
     </td>
+    <td align="center" width="35">
+    	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="41">
+    </td>
+    <td align="center" width="35">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="41">
+    </td>
+	    
   </tr>
   <tr>
   </tr>
