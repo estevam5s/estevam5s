@@ -1,6 +1,5 @@
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="565" height="300">
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=estevam5s&theme=default) -->
 
