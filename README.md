@@ -18,11 +18,11 @@
 | In my free time, I enjoy playing (and watching) soccer (⚽️), watching movies (🎞️) and series (📺), reading books (📚), listening to music (🎵), and occasionally philosophizing about life with a whisky (🍺).
 
 <p align="center">
-	<a href="https://github.com/estevam5s">
+<!-- 	<a href="https://github.com/estevam5s">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam5s&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" alt="My Github" />
 	</a>
 	<a href="https://github.com/estevam5s">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=estevam5s&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="crazycoderstein's Github Stats" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=estevam5s&hide=prs&show_icons=true&count_private=true&include_all_commits=true&line_height=29&theme=dracula" alt="crazycoderstein's Github Stats" /> -->
 	<a href="https://github.com/estevam5s">
 		<img align="center" src="https://streak-stats.demolab.com?user=estevam5s&theme=radical&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=756&stroke=C522EB" alt="crazycoderstein's Github Stats" />
 	</a>
