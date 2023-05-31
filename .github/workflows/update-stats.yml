@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: estevam5s/estevam5s@main
+      - uses: TTENSHII/github-profile-stats@main
         with:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           DEBUG: 'false'
