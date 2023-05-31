@@ -14,6 +14,7 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
+    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=eee407" alt="Star Badge"/>
 </p>
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
