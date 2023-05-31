@@ -1,0 +1,25 @@
+name: 'Update profile stats'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: estevam5s/estevam5s@main
+        with:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          DEBUG: 'false'
+          SHOW_HOURS: 'true'
+          SHOW_DAYS: 'true'
+          SHOW_LANGUAGES: 'true'
+          LANGUAGES_COUNT: '5'
+          SHOW_OVERWIEW: 'true'
+          COMMIT_MESSAGE: 'Update profile stats'
