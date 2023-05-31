@@ -41,7 +41,6 @@
 	</a>
 </p>
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,apollo,jenkins,pug)](https://skillicons.dev) -->
 
