@@ -18,22 +18,21 @@
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
-| **About Me**               | 
-| -------------------------- |
+| **About Me**                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | My name is Estevam Souza from Brazil (🇧🇷). I'm passionate about open source projects and I've always loved to produce a lot of content during my career. I am an enthusiastic JavaScript developer who loves solving difficult technical issues. |
 
-| **Specialties**            | **Favorite Framework**     | **Interests**              |
-| -------------------------- | -------------------------- | -------------------------- |
-| TypeScript, JavaScript,    |![My Skills](https://skillicons.dev/icons?i=nestjs)      | In my free time, I enjoy   |
-| Node, Nest, Express        |                            | playing (and watching)     |
-|                            |                            | soccer (⚽️), watching      |
-|                            |                            | movies (🎞️) and series     |
-|                            |                            | (📺), reading books (📚),   |
-|                            |                            | listening to music (🎵),   |
-|                            |                            | and occasionally           |
-|                            |                            | philosophizing about life  |
-|                            |                            | with a whisky (🍺).         |
-
+| **Specialties**         | **Favorite Framework**                              | **Interests**             |
+| ----------------------- | --------------------------------------------------- | ------------------------- |
+| TypeScript, JavaScript, | ![My Skills](https://skillicons.dev/icons?i=nestjs) | In my free time, I enjoy  |
+| Node, Nest, Express     |                                                     | playing (and watching)    |
+|                         |                                                     | soccer (⚽️), watching    |
+|                         |                                                     | movies (🎞️) and series    |
+|                         |                                                     | (📺), reading books (📚), |
+|                         |                                                     | listening to music (🎵),  |
+|                         |                                                     | and occasionally          |
+|                         |                                                     | philosophizing about life |
+|                         |                                                     | with a whisky (🍺).       |
 
 <p align="center">
 	<a href="https://github.com/estevam5s">
