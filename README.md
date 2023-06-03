@@ -1,3 +1,5 @@
+<img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf">
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h4>
@@ -19,22 +21,21 @@
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
-| **About Me**               | 
-| -------------------------- |
+| **About Me**                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | My name is Estevam Souza from Brazil (🇧🇷). I'm passionate about open source projects and I've always loved to produce a lot of content during my career. I am an enthusiastic JavaScript developer who loves solving difficult technical issues. |
 
-| **Specialties**            | **Favorite Framework**     | **Interests**              |
-| -------------------------- | -------------------------- | -------------------------- |
-| TypeScript, JavaScript,    | [Framework Name]           | In my free time, I enjoy   |
-| Node, Nest, Express        |                            | playing (and watching)     |
-|                            |                            | soccer (⚽️), watching      |
-|                            |                            | movies (🎞️) and series     |
-|                            |                            | (📺), reading books (📚),   |
-|                            |                            | listening to music (🎵),   |
-|                            |                            | and occasionally           |
-|                            |                            | philosophizing about life  |
-|                            |                            | with a whisky (🍺).         |
-
+| **Specialties**         | **Favorite Framework** | **Interests**             |
+| ----------------------- | ---------------------- | ------------------------- |
+| TypeScript, JavaScript, | [Framework Name]       | In my free time, I enjoy  |
+| Node, Nest, Express     |                        | playing (and watching)    |
+|                         |                        | soccer (⚽️), watching    |
+|                         |                        | movies (🎞️) and series    |
+|                         |                        | (📺), reading books (📚), |
+|                         |                        | listening to music (🎵),  |
+|                         |                        | and occasionally          |
+|                         |                        | philosophizing about life |
+|                         |                        | with a whisky (🍺).       |
 
 <p align="center">
 	<a href="https://github.com/estevam5s">
@@ -134,6 +135,18 @@
   <tr>
   </tr>
 </div>
+
+## My Favorite Linux Distro :
+
+<p align="center">
+<a href="https://exodia-os.github.io/exodia-website/">
+  <img width="150" hight="150" src="/Images/Predator.png" />
+</a>
+<p/>
+
+| [![Arch Based](https://img.shields.io/badge/OS-ArchBased-05122A?style=plastic&logo=ArchLinux&color=informational&style=for-the-badge)](https://archlinux.org/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | [![Debian Based](https://img.shields.io/badge/OS-DebianBased-05122A?style=plastic&logo=debian&color=informational&style=for-the-badge)](https://www.debian.org/)                                                                                                                                                                                                                                                                                                                                                                                                              | [![Fedora Based](https://img.shields.io/badge/OS-FedoraBased-05122A?style=plastic&logo=Fedora&color=informational&style=for-the-badge)](https://getfedora.org/)                                                                                                                                    | [![Slackware Based](https://img.shields.io/badge/OS-SlackwareBased-05122A?style=plastic&logo=Slackware&color=informational&style=for-the-badge)](http://www.slackware.com/) | [![In use](https://img.shields.io/badge/OS-In%20use-05122A?style=plastic&logo=linux&color=informational&style=for-the-badge)](https://www.linux.org/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Exodia](https://img.shields.io/badge/OS-Exodia%20OS%20Predator-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)</br> [![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/) | [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) | [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational&logoColor=red)](https://www.redhat.com/en) </br> [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/) | [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)                                 | [![Exodia](https://img.shields.io/badge/OS-Exodia%20OS%20Predator-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) </br> [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/) |
 
 ## :sparkling_heart: Support the project <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
