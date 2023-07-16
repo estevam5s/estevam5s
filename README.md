@@ -1,4 +1,4 @@
-<img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf">
+<!-- <img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf"> -->
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
