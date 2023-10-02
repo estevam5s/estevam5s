@@ -27,8 +27,8 @@
 
 | **Specialties**         | **Favorite Framework** | **Interests**             |
 | ----------------------- | ---------------------- | ------------------------- |
-| TypeScript, JavaScript, | [Framework Name]       | In my free time, I enjoy  |
-| Node, Nest, Express     |                        | playing (and watching)    |
+| TypeScript, JavaScript, | Nestjs                 | In my free time, I enjoy  |
+| Node, Express           |                        | playing (and watching)    |
 |                         |                        | soccer (⚽️), watching    |
 |                         |                        | movies (🎞️) and series    |
 |                         |                        | (📺), reading books (📚), |
