@@ -6,12 +6,6 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   Programmer (Nestjs Developer)
 </h4>
-<p align="center">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
-  <a href="https://github.com/estevam5s?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
-  </a>
-</p>
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
@@ -136,7 +130,9 @@
 [![@3urobeat](https://img.shields.io/badge/blogger-lightblue)](https://estevamsouza.com) °
 [![My Setup](https://img.shields.io/badge/My%20Setup-lightgreen)](https://gist.github.com/estevam5s/958517e0d8d270c96c20bddd91bf1908) °
 [![My Projects](https://img.shields.io/badge/%20My%20Blogger%20-lightblue)](https://bloggertecnology.vercel.app/) °
-[![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s)
+[![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s) °
+<img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> °
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
 this takes time. You can use this service for free.
