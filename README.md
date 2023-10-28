@@ -8,7 +8,7 @@
 </h4>
 <p align="left">
   <a href="https://github.com/estevam5s">
-    <img src="https://komarev.com/ghpvc/?username=estevam5s" alt="page views">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
   </a>
   <a href="https://github.com/estevam5s?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
