@@ -6,17 +6,11 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   Programmer (Nestjs Developer)
 </h4>
-<p align="left">
-  <a href="https://github.com/estevam5s">
+<p align="center">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> </p>
-  </a>
   <a href="https://github.com/estevam5s?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=eee407" alt="Star Badge"/>
 </p>
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
