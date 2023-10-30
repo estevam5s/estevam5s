@@ -131,8 +131,7 @@
 [![My Setup](https://img.shields.io/badge/My%20Setup-lightgreen)](https://gist.github.com/estevam5s/958517e0d8d270c96c20bddd91bf1908) °
 [![My Projects](https://img.shields.io/badge/%20My%20Blogger%20-lightblue)](https://bloggertecnology.vercel.app/) °
 [![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s) °
-![Profile Stat](https://komarev.com/ghpvc/?username=trinib&color=green)
-![](https://hit.yhype.me/github/profile?user_id=42458094) °
+![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00) °
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
