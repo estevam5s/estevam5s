@@ -206,10 +206,6 @@
 
 </br>
 
-<div>
-    <a href="https://app.daily.dev/Estevamsl"><img src="https://api.daily.dev/devcards/4cb0fd19db754d52bd9de131e34e9ab0.png?r=jzp"  height="250px" align="right"  alt="Estevam Souza Laureth's Dev Card" alt="centered image"/></a>
-</div>
-
 </br>
 
 <strong>🏆 Dooboo lab's github stats</strong>
@@ -217,6 +213,10 @@
 ![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
 
 ## My Favorite Linux Distro :
+
+<div>
+    <a href="https://app.daily.dev/Estevamsl"><img src="https://api.daily.dev/devcards/4cb0fd19db754d52bd9de131e34e9ab0.png?r=jzp"  height="250px" align="right"  alt="Estevam Souza Laureth's Dev Card" alt="centered image"/></a>
+</div>
 
 <p align="center">
 <a href="https://exodia-os.github.io/exodia-website/">
