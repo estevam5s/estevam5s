@@ -1,3 +1,99 @@
+<!--
+    Montasim's GitHub Profile
+    Created on : 18/5/2021
+    Author     : Mohammad Montasim -Al- Mamun Shuvo
+    Contact    : montasimmamun@gmail.com
+
+    -----------------------------------------------------------------------
+    -----------------------------------------------------------------------
+    
+    Thank you if you like this profile README!
+
+    BUT, please DO NOT copy this and create your profile based on it.
+    You can use it as a reference, and copy a part of it, but DO NOT copy
+    all of this and create your profile based on it.
+
+    It is very common that you forget to change some information and leave
+    mine in your profile.
+
+    Only when you know what you are copying should you paste it. So, again,
+    please DO NOT copy this and create your profile based on it.
+
+    ---------------------------------------------------------------------
+
+    What's more, you can find other awesome profile READMEs at
+    https://github.com/abhisheknaiidu/awesome-github-profile-readme.
+    There could be a profile README that fits you better than this one.
+
+    ---------------------------------------------------------------------
+    
+    Wish you a good-looking profile README!
+
+                                —— montasim (https://github.com/montasim)
+-->
+
+<br/>
+
+<!-- hello nice to meet you text start -->
+<div align="center">
+    <img loading="lazy" width="30px" src="https://github.com/montasim/montasim/blob/main/media/icons/code.png" alt="code png" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img loading="lazy" width="30px" src="https://github.com/montasim/montasim/blob/main/media/icons/layers.png" alt="layers png" />
+</div>
+<!-- hello nice to meet you text end -->
+
+<br/>
+
+
+<!-- about repository badges start -->
+<div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
+  <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/estevam5s?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+  <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+    <img loading="lazy" alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
+  </a> -->
+  <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+</div>
+<!-- about repository badges end -->
+
+<br/>
+
+<!-- skills icons start -->
+<div align="center">
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="typescript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="javascript icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="nodejs icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/FFFFFF" alt="express icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFFFF" alt="mongodb icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/FFFFFF" alt="sass icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" alt="tailwindcss icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="html5 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" alt="css3 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown icon" />
+</div>
+<!-- skills icons end -->
+
+<br/>
+
+<!-- tools badge start -->
+<div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 15px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 15px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
+</div>
+<!-- tools badge end -->
+
+<br/>
+<br/>
+<br/>
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h4>
