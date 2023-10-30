@@ -2,8 +2,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-#### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
-
 <h4>
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
   Programmer (Nestjs Developer)
@@ -137,6 +135,8 @@
 [![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s) °
 <img src="https://komarev.com/ghpvc/?username=aachal28&label=Profile%20views&color=0e75b6&style=flat" alt="aachal28" /> °
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
+
+#### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
 I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
 this takes time. You can use this service for free.
