@@ -204,6 +204,8 @@
   </tr>
 </div>
 
+</br>
+
 <strong>🏆 Dooboo lab's github stats</strong>
 
 ![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
