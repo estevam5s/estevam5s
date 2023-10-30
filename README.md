@@ -1,9 +1,3 @@
-<p align="center">
-	
-<img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-
-<!-- <img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf"> -->
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h4>
@@ -166,3 +160,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<p align="center">
+	
+<img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
+
+<!-- <img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf"> -->
