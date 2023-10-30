@@ -266,10 +266,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 </p>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 <p align="center">
 	
 <img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-
 <!-- <img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf"> -->
