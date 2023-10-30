@@ -129,7 +129,9 @@
 ## :sparkling_heart: Support the project <img src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-pink)](https://www.linkedin.com/in/estevam-souza/) °
-[![@3urobeat](https://img.shields.io/badge/blogger-lightblue)](https://estevamsouza.com) °
+[![Linkedin](https://img.shields.io/badge/Bitbucket-green)](https://bitbucket.org/Estevamsl/workspace/overview/) °
+[![Linkedin](https://img.shields.io/badge/Gitlab-white)](https://gitlab.com/estevam5s) °
+[![@3urobeat](https://img.shields.io/badge/Portfolio-lightblue)](https://estevamsouza.com) °
 [![My Setup](https://img.shields.io/badge/My%20Setup-lightgreen)](https://gist.github.com/estevam5s/958517e0d8d270c96c20bddd91bf1908) °
 [![My Projects](https://img.shields.io/badge/%20My%20Blogger%20-lightblue)](https://bloggertecnology.vercel.app/) °
 [![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s) °
