@@ -214,14 +214,10 @@
 
 ## My Favorite Linux Distro :
 
-<div>
-    <a href="https://app.daily.dev/Estevamsl"><img src="https://api.daily.dev/devcards/4cb0fd19db754d52bd9de131e34e9ab0.png?r=jzp"  height="200px" align="right"  alt="Estevam Souza Laureth's Dev Card" alt="centered image"/></a>
-</div>
-
 <p align="center">
 <a href="https://exodia-os.github.io/exodia-website/">
   <img width="150" hight="150" src="/Images/Predator.png" />
-</a>
+</a> 
 <p/>
 
 | | | | | |
@@ -241,6 +237,10 @@
 [![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s) °
 ![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00) °
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
+
+<div>
+    <a href="https://app.daily.dev/Estevamsl"><img src="https://api.daily.dev/devcards/4cb0fd19db754d52bd9de131e34e9ab0.png?r=jzp"  height="200px" align="right"  alt="Estevam Souza Laureth's Dev Card" alt="centered image"/></a>
+</div>
 
 #### Perfil em Português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/estevam5s/estevam5s/blob/main/README-us.md)</kbd>
 
