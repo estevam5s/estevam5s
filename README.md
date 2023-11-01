@@ -42,9 +42,10 @@
 </div>
 <!-- hello nice to meet you text end -->
 
-<br/>
-
-
+<p align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+  Programmer (Nestjs Developer)
+<p/>
 <!-- about repository badges start -->
 <div align="center">
   <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
@@ -95,11 +96,6 @@
 <br/>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-<h4>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-  Programmer (Nestjs Developer)
-</h4>
 
 | **About Me**                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -218,7 +214,6 @@
 <a href="https://exodia-os.github.io/exodia-website/">
   <img width="150" hight="150" src="/Images/Predator.png" />
 </a>
-</tb></tb>
 <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 <p/>
 
