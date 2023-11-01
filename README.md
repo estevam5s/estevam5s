@@ -217,7 +217,9 @@
 <p align="center">
 <a href="https://exodia-os.github.io/exodia-website/">
   <img width="150" hight="150" src="/Images/Predator.png" />
-</a> 
+</a>
+</tb></tb>
+<a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 <p/>
 
 | | | | | |
@@ -260,10 +262,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
   <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
-<p align="center">
-  <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 </p>
 
 <p align="center">
