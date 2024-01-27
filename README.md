@@ -210,6 +210,10 @@
 
 ## My Favorite Linux Distro :
 
+<p align="center">***Pentesing Tools That All Hacker Needs***</p>
+ <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
+
+
 <p align="center">
 <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
 <p/>
