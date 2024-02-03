@@ -31,7 +31,6 @@
 
                                 —— montasim (https://github.com/montasim)
 -->
-
 <br/>
 
 <!-- hello nice to meet you text start -->
@@ -56,7 +55,6 @@
   <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
-
 <br/>
 
 <!-- skills icons start -->
@@ -71,7 +69,6 @@
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown icon" />
 </div>
 <!-- skills icons end -->
-
 <br/>
 
 <!-- tools badge start -->
@@ -84,7 +81,6 @@
   <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
 </div>
 <!-- tools badge end -->
-
 <br/>
 <br/>
 <br/>
@@ -101,9 +97,7 @@
 	</a>
 </p>
 <br />
-
 <!-- [![My Skills](https://skillicons.dev/icons?i=nestjs,js,ts,aws,graphql,linux,postgres,reactivex,mongo,express,prisma,docker,apollo,jenkins,pug)](https://skillicons.dev) -->
-
 <div style="display: flex; align-items: flex-start; align: center">
   <tr>
     </td>
@@ -193,20 +187,13 @@
   <tr>
   </tr>
 </div>
-
 </br>
-
 </br>
-
-<strong>🏆 Dooboo lab's github stats</strong>
-
-![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
 
 ## My Favorite Linux Distro :
 
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
  <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
-
 
 <p align="center">
 <a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
@@ -258,5 +245,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center">
 	
-<img  width="800px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-<!-- <img src="gif/00xWolf-HACK-THE-PLANET.gif" alt="00xWolf"> -->
+<strong>🏆 Dooboo lab's github stats</strong>
+![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
