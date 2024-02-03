@@ -63,13 +63,9 @@
 <div align="center">
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="typescript icon"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="javascript icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="react icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="nodejs icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/FFFFFF" alt="express icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFFFF" alt="mongodb icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/FFFFFF" alt="sass icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" alt="tailwindcss icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="bootstrap icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="html5 icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" alt="css3 icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown icon" />
