@@ -220,6 +220,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <p align="center">
-	
-<strong>🏆 Dooboo lab's github stats</strong>
+
+<details>
+  <summary><strong>🏆 Dooboo lab's github stats</strong></summary>
+  
 ![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
+</details>
