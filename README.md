@@ -43,7 +43,7 @@
 
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-  Programmer (Nestjs Developer)
+  Programmer (Nestjs Developer) and Cyber Security
 <p/>
 <!-- about repository badges start -->
 
