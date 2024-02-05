@@ -61,20 +61,6 @@
 <!-- skills icons end -->
 <br/>
 
-<!-- tools badge start -->
-<div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
-</div>
-<!-- tools badge end -->
-<br/>
-<br/>
-<br/>
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 | **About Me**                                                                                                                                                                                                                                     |
