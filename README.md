@@ -103,7 +103,6 @@
 [![My Setup](https://img.shields.io/badge/My%20Setup-lightgreen)](https://gist.github.com/estevam5s/958517e0d8d270c96c20bddd91bf1908) °
 [![My Projects](https://img.shields.io/badge/%20My%20Blogger%20-lightblue)](https://bloggertecnology.vercel.app/) °
 [![Donate](https://img.shields.io/badge/Donate-pink)](https://github.com/sponsors/estevam5s) °
-![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00) °
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/estevam5s?color=green&logo=github">
 
 <div>
