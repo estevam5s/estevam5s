@@ -1,6 +1,6 @@
 # Estevam Souza <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-Software Engineer | Nestjs | GraphQL | Clean Architecture | Hasura | TDD | CI/CD
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px" height="15px"> Software Engineer | Nestjs | GraphQL | Clean Architecture | Hasura | TDD | CI/CD
 
 [![Linkedin Badge](https://img.shields.io/badge/-Estevam%20Souza-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevam-ssouza/)](https://www.linkedin.com/in/estevam-souza/) 
 [![Gmail Badge](https://img.shields.io/badge/-estevamsouzalaureth@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamsouzalaureth@gmail.com)](mailto:estevamsouzalaureth@gmail.com)
