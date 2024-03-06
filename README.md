@@ -1,3 +1,5 @@
+![Estevam Souza](https://raw.githubusercontent.com/estevam5s/estevam5s/main/Images/Hello.jpg)
+
 # Estevam Souza <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px" height="15px"> Software Engineer | Nestjs | GraphQL | Clean Architecture | Hasura | TDD | CI/CD
