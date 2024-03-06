@@ -15,9 +15,9 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
   <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
-
-
 <div width="100%" align="center">
    <a align="right" href="https://github.com/estevam5s/nasa" title="NFT Marketplace"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
  
+  <a href="https://app.daily.dev/Estevamsl"><img src="https://api.daily.dev/devcards/4cb0fd19db754d52bd9de131e34e9ab0.png?r=jzp"  height="200px" align="right"  alt="Estevam Souza Laureth's Dev Card" alt="centered image"/></a>
+    
 </div>
