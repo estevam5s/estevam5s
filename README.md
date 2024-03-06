@@ -14,18 +14,3 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 <p align="center">
   <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
