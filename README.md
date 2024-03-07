@@ -63,13 +63,11 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 	</ul>
 </details>
 
-
 <details>
   <summary><strong>🏆 Dooboo lab's github stats</strong></summary>
   
 ![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
 </details>
-
 
 <details>
   <summary><strong>🏆 My Favorite Linux Distro</strong></summary>
@@ -88,7 +86,6 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </details>
-
 
 <details>
 <summary>☄️ more</summary>
@@ -132,7 +129,6 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 </table> -->
 
 </details>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
