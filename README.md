@@ -65,6 +65,36 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?&style=flat&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML_5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS_3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=flat&logo=nuxt.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%230f172a.svg?&style=flat&logo=tailwindcss&logoColor=%2338bdf8)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20-%231c90ed.svg?&style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Redis](https://img.shields.io/badge/Redis-%23d12b1f.svg?style=flat&logo=redis&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-%23f7f7f7.svg?style=flat&logo=mongodb&logoColor=%23429543)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23005a83.svg?style=flat&logo=mysql&logoColor=white)
+![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
