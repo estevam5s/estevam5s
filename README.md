@@ -63,6 +63,34 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 	</ul>
 </details>
 
+
+<details>
+  <summary><strong>🏆 Dooboo lab's github stats</strong></summary>
+  
+![estevam5s github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=estevam5s)
+</details>
+
+
+<details>
+  <summary><strong>🏆 My Favorite Linux Distro</strong></summary>
+  
+<p align="center">***Pentesing Tools That All Hacker Needs***</p>
+ <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
+
+<p align="center">
+<a href="https://exodia-os.github.io/exodia-website/"><img src="https://github.com/Exodia-OS/.github/blob/e1ab4df119651217467731aef92f97226d5c193a/profile/GIFs/logos.gif" height="200" width="200" alt="Exodia"></a>
+<p/>
+
+| | | | | |
+| --| :--| :--| :--| :--|
+| [![Exodia](https://img.shields.io/badge/OS-Exodia%20OS%20Predator-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br> [![Arch Based](https://img.shields.io/badge/OS-ArchBased-05122A?style=plastic&logo=ArchLinux&color=informational&style=for-the-badge)](https://archlinux.org/) </br> [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br> [![BlackArchLinux](https://img.shields.io/badge/OS-blackarchLinux-05122A?style=plastic&logo=ArchLinux&logoColor=black&color=informational)](https://blackarch.org/)</br> [![Garuda Linux](https://img.shields.io/badge/OS-GarudaLinux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=important)](https://garudalinux.org/) | [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![Debian Based](https://img.shields.io/badge/OS-DebianBased-05122A?style=plastic&logo=debian&color=informational&style=for-the-badge)](https://www.debian.org/) </br> [![Linuxmint](https://img.shields.io/badge/OS-Linuxmint-05122A?style=plastic&logo=Linuxmint&color=informational)](https://linuxmint.com/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) | [![RedHat](https://img.shields.io/badge/OS-Red%20Hat-05122A?style=plastic&logo=RedHat&color=informational&logoColor=red)](https://www.redhat.com/en) </br> [![In use](https://img.shields.io/badge/OS-In%20use-05122A?style=plastic&logo=linux&color=informational&style=for-the-badge)](https://www.linux.org/) </br> [![Slackware Based](https://img.shields.io/badge/OS-SlackwareBased-05122A?style=plastic&logo=Slackware&color=informational&style=for-the-badge)](http://www.slackware.com/) </br>  [![Fedora Based](https://img.shields.io/badge/OS-FedoraBased-05122A?style=plastic&logo=Fedora&color=informational&style=for-the-badge)](https://getfedora.org/) </br> [![qubes os](https://img.shields.io/badge/OS-QubesOS-05122A?style=plastic&logo=QubesOS&color=informational)](https://www.qubes-os.org/) | [![ArchCraft](https://img.shields.io/badge/OS-ArchCraft-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=green)](https://archcraft.io/) </br>  [![Exodia](https://img.shields.io/badge/OS-Exodia%20OS%20Predator-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br>  [![Exodia](https://img.shields.io/badge/OS-Garuda%20OS%20Linux-05122A?style=plastic&logo=ArchLinux&color=informational&logoColor=deeppink)](https://exodia-os.github.io/exodia-website/) </br>  [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)   </br>  [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)                               | [![KaliLinux](https://img.shields.io/badge/OS-KaliLinux-05122A?style=plastic&logo=KaliLinux&color=informational)](https://www.kali.org/) </br> [![tails](https://img.shields.io/badge/OS-Tails%20OS-05122A?style=plastic&logo=tails&color=informational)](https://tails.boum.org/) </br> [![ParrotOS](https://img.shields.io/badge/OS-ParrotOS-05122A?style=plastic&logo=debian&color=informational)](https://parrotsec.org/) </br> [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/)  </br> [![Wifi-Slax](https://img.shields.io/badge/OS-WifiSlax-05122A?style=plastic&logo=slackware&color=informational)](https://www.wifislax.com/) |
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</details>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
