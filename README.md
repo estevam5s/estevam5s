@@ -18,11 +18,11 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 </p>
 
 <div width="100%" align="center">
-   <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
+   <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
 
-   <a align="right" href="https://github.com/estevam5s/exodia-os-themes" title="Exodia OS"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=exodia-os-themes&theme=nightowl"></a>
+   <a align="right" href="https://github.com/estevam5s/exodia-os-themes" title="Exodia OS"><img align="left"  height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=exodia-os-themes&theme=nightowl"></a>
 
-   <a align="right" href="https://github.com/estevam5s/codedrops-typegrahpql" title="Rocketseat"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=codedrops-typegrahpql&theme=nightowl"></a>
+   <a align="right" href="https://github.com/estevam5s/codedrops-typegrahpql" title="Rocketseat"><img align="left"  height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=codedrops-typegrahpql&theme=nightowl"></a>
     
 </div>
 
