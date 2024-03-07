@@ -32,7 +32,7 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 <br />
 <br />
 <br />
-
+<br />
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
