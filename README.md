@@ -162,3 +162,13 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+<h3>MY FRIEND</h3>
+has a message for you...
+
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
+<br>
