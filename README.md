@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Estevam%20Souza-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevam-ssouza/)](https://www.linkedin.com/in/estevam-souza/) 
 [![Gmail Badge](https://img.shields.io/badge/-estevamsouzalaureth@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamsouzalaureth@gmail.com)](mailto:estevamsouzalaureth@gmail.com)
 
-Entusiasta das melhores tecnologias de desenvolvimento backend.
+<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> Entusiasta das melhores tecnologias de desenvolvimento backend.
 
 "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum do que fracassos talentosos. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não excede. O mundo está cheio de tolos educados. Persistência e determinação são poderosas."
 
@@ -36,7 +36,7 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3>Things I code with</h3>
+<h3> <img src="https://github.githubassets.com/images/mona-whisper.gif" width="42" /> Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -82,6 +82,8 @@ Entusiasta das melhores tecnologias de desenvolvimento backend.
   <summary><b>⚡Stats</b></summary>
 
 <br />
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
