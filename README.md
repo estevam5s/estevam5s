@@ -1,30 +1,30 @@
 <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
 <a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
-<a href="https://peerlist.io/vinitshahdeo"><img src="https://github-readme-badge.peerlist.io/api/vinitshahdeo"/></a>
+<a href="https://peerlist.io/estevam5s"><img src="https://github-readme-badge.peerlist.io/api/estevam5s"/></a>
 <a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
-<a href="https://github.com/vinitshahdeo?tab=repositories"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://github.com/estevam5s?tab=repositories"><img src="https://img.shields.io/github/stars/estevam5s?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
-Contente por te ver aqui! Sou Estevam, engenheiro de software com grande paixão por JavaScript e código aberto. Com talento para construir arquitetura voltada para eventos, equilibro código com badminton 🏸 e encontro paz em um gole de chá 🍵 e poesia 🎙️.
+Glad to see you here! I'm Estevam, a software engineer with a great passion for JavaScript and open source. With a talent for building event-oriented architecture, I balance code with badminton 🏸 and find peace in a sip of tea 🍵 and poetry 🎙️.
 
-[![Github Badge](https://img.shields.io/badge/-@vinitshahdeo--novo-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/vinitshahdeo-novo) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-vinitshahdeo-orange.svg?style=flat&logo=postman)](https://www.postman.com/vinitshahdeo) [![NPM - Vinit Shahdeo](https://img.shields.io/badge/npm-vinitshahdeo-231F20?logo=npm)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-vinitshahdeo-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@vinit_shahdeo) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-vinitshahdeo-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/vinitshahdeo)
+[![Github Badge](https://img.shields.io/badge/-@estevam5s-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/estevam5s) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-estevam5s-orange.svg?style=flat&logo=postman)](https://winter-astronaut-2711.postman.co/me) [![NPM - Vinit Estevam](https://img.shields.io/badge/npm-estevam5s-231F20?logo=npm)](https://www.npmjs.com/~estevamsl) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-estevam5s-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@estevam5s) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-estevam5s-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/estevam5s)
 
 ### Featured blogs/articles
 
-- 📖 [A Developer’s Story – Vinit Shahdeo](https://www.geektrust.in/blog/2019/07/31/developers-story-vinit-shahdeo/)
-- 🚀 [Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
-- 💻 [If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
-- 🌟 [Milepost: From a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star)
-- 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
+- 📖 [Comandos Essenciais Do Docker](https://bloggertecnology.vercel.app/blogs/docker-commands)
+- 🚀 [Densenvolvendo Uma API Restful Com Nestjs + Mongodb](https://bloggertecnology.vercel.app/blogs/nestjs-mongodb-apirestful)
+- 💻 [Produtividade Absoluta Com Docker](https://bloggertecnology.vercel.app/blogs/produtividade-com-docker)
+- 🌟 [Melhores Práticas Para Escrever Código Limpo E Sustentável](https://bloggertecnology.vercel.app/blogs/best-practices-for-writing-clean-and-maintainable-code)
+- 🧠 [Produtividade Com NestJS](https://bloggertecnology.vercel.app/blogs/nestjs-produtividade)
 
 ### Projects
 
 Apart from the pinned repositories, I have built:
-- 🛡️ [Peerlist README Badges](https://github.com/vinitshahdeo/peerlist-readme-badge/) *(included in [Peerlist official tools](https://peerlist.io/tools/readme-badge))*
-- 🔍 [OpenAPI Web Search](https://vinitshahdeo.dev/open-api-web-search) *(part of [GSoC at Postman](https://blog.postman.com/postmans-projects-and-contributors-google-summer-of-code-2023/))*
-- 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
-- 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
+- 🛡️ [Nestjs](https://github.com/estevam5s/nest)
+- 🔍 [Data](https://github.com/estevam5s/big-data)
+- 💧 [Nasa API with Nestjs](https://github.com/estevam5s/nasa)
+- 🦠 [stellarium](https://github.com/estevam5s/stellarium)
 
 ### Tech Stack
 
@@ -52,17 +52,13 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 
 ### Open Source Initiatives
 
-During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I initiated a program aimed at [helping beginners kickstart their journey into open-source](https://vinitshahdeo.dev/hacktoberfest-2021), impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for [#50DaysOfJavaScript](https://50daysofjavascript.netlify.app/), a community-led open-source initiative aimed at enhancing JavaScript skills to ace the next JS interviews. Please consider joining as a **participant**, **mentor**, or a **community partner**.
-
-<!--
-[![50DaysOfJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=50DaysOfJavaScript&theme=gruvbox)](https://github.com/vinitshahdeo/50DaysOfJavaScript)
--->
+I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led open source initiative that aims to improve JavaScript skills to crack upcoming JS interviews. Consider joining as a participant, mentor, or community partner.
 
 ### Let's connect!
 
-Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hashnode.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/estevamsouza199) and [LinkedIn](https://www.linkedin.com/in/estevam-souza/).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/estevamsouza199?style=social)](https://twitter.com/estevamsouza199) [![Peerlist](https://github-readme-badge.peerlist.io/api/estevam5s)](https://peerlist.io/estevam5s)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=estevamsouza&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/estevam-souza/) [![GitHub followers](https://img.shields.io/github/followers/estevam5s.svg?label=Follow%20@estevam5s&style=social)](https://github.com/estevam5s/)
 
 **Let's code, connect, and create awesome things together!**
 
