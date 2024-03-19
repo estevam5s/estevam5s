@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
 <a href="https://peerlist.io/estevam5s"><img src="https://github-readme-badge.peerlist.io/api/estevam5s"/></a>
-<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=estevam5s%2Festevam5s&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/estevam5s?tab=repositories"><img src="https://img.shields.io/github/stars/estevam5s?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
@@ -31,7 +31,7 @@ Apart from the pinned repositories, I have built:
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-43853D?logo=mongodb&logoColor=white)
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-DD0031?style=flat-square&logo=hasura&logoColor=white" />
@@ -44,11 +44,20 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%2300599C.svg?style=flat&logo=Sequelize&logoColor=white" />
+<img alt="Bun" src="https://img.shields.io/badge/Bun-%2300599C.svg?style=flat&logo=Bun&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Eslint" src="https://img.shields.io/badge/Eslint-%2300599C.svg?style=flat&logo=Eslint&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+<img alt="Axios" src="https://img.shields.io/badge/Axios-%23316192.svg?style=flat&logo=axios&logoColor=purple" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-DD0031?style=flat-square&logo=git&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=43853D" />
+![Deno](https://img.shields.io/badge/Deno-232F3E?logo=deno)
+<img alt="yarn" src="https://img.shields.io/badge/yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-%2300599C.svg?style=flat&logo=prisma&logoColor=white" />
 
 ### Open Source Initiatives
 
