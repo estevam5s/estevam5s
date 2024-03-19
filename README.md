@@ -37,6 +37,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-DD0031?style=flat-square&logo=hasura&logoColor=white" />
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -44,6 +45,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+![Express](https://img.shields.io/badge/Express-43853D?logo=express&logoColor=white)
 <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%2300599C.svg?style=flat&logo=Sequelize&logoColor=white" />
 <img alt="Bun" src="https://img.shields.io/badge/Bun-%2300599C.svg?style=flat&logo=Bun&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -54,10 +56,10 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Axios" src="https://img.shields.io/badge/Axios-%23316192.svg?style=flat&logo=axios&logoColor=purple" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-DD0031?style=flat-square&logo=git&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=43853D" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=43853D" />
 ![Deno](https://img.shields.io/badge/Deno-232F3E?logo=deno)
 <img alt="yarn" src="https://img.shields.io/badge/yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
-<img alt="Prisma" src="https://img.shields.io/badge/Prisma-%2300599C.svg?style=flat&logo=prisma&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white" />
 
 ### Open Source Initiatives
 
