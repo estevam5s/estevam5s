@@ -60,6 +60,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Bun" src="https://img.shields.io/badge/Bun-%2300599C.svg?style=flat&logo=Bun&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img src="https://img.shields.io/badge/-Angular%20-DD0031?logo=Angular&logoColor=white&labelColor=DD0031" alt="Angular" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Eslint" src="https://img.shields.io/badge/Eslint-%2300599C.svg?style=flat&logo=Eslint&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -74,7 +75,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="vim" src="https://img.shields.io/badge/-vim-green?style=flat-square&logo=vim&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=flat-square&logo=linux&logoColor=white" />
 <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-green?style=flat-square&logo=LaTex&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-SQlite%203-003B57?logo=SQlite&logoColor=white&labelColor=003B57" alt="SQlite3" />
 
 ### Open Source Initiatives
 
