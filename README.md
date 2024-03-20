@@ -73,6 +73,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-E10098?style=flat-square&logo=Yarn&logoColor=white" />
 <img alt="visual studio code" src="https://img.shields.io/badge/-visual_studio_code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="vim" src="https://img.shields.io/badge/-vim-green?style=flat-square&logo=vim&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=flat-square&logo=linux&logoColor=white" />
 
 ### Open Source Initiatives
 
