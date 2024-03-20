@@ -69,7 +69,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 
 I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led open source initiative that aims to improve JavaScript skills to crack upcoming JS interviews. Consider joining as a participant, mentor, or community partner.
 
-### Let's connect!
+### Let's connect! <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hashnode.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/estevamsouza199) and [LinkedIn](https://www.linkedin.com/in/estevam-souza/).
 
