@@ -70,6 +70,9 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Deno](https://img.shields.io/badge/Deno-232F3E?logo=deno)
 <img alt="yarn" src="https://img.shields.io/badge/yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white" />
+<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-E10098?style=flat-square&logo=Yarn&logoColor=white" />
+<img alt="visual studio code" src="https://img.shields.io/badge/-visual_studio_code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img alt="vim" src="https://img.shields.io/badge/-vim-green?style=flat-square&logo=vim&logoColor=white" />
 
 ### Open Source Initiatives
 
