@@ -76,6 +76,10 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=flat-square&logo=linux&logoColor=white" />
 <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-green?style=flat-square&logo=LaTex&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQlite%203-003B57?logo=SQlite&logoColor=white&labelColor=003B57" alt="SQlite3" />
+<img alt="Prisma" src="https://img.shields.io/badge/-Prisma-007ACC?style=flat-square&logo=Prisma&logoColor=white" />
+<img alt="KnexJS" src="https://img.shields.io/badge/-KnexJS-F7DF1E?style=flat-square&logo=knex.js&logoColor=black" />
+
+
 
 ### Open Source Initiatives
 
