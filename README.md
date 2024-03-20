@@ -41,7 +41,13 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-DD0031?style=flat-square&logo=hasura&logoColor=white" />
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E10098?style=flat-square&logo=Jenkins&logoColor=white" />
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=white" />
+<img alt="fastify" src="https://img.shields.io/badge/-fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
+<img alt="fastAPI" src="https://img.shields.io/badge/-fastAPI-purple?style=flat-square&logo=fastAPI&logoColor=white" />
+<img alt="gitlab" src="https://img.shields.io/badge/-gitlab-red?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="bitbucket" src="https://img.shields.io/badge/-bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas&logoColor=white" />
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
