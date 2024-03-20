@@ -105,3 +105,7 @@ Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hash
       </tr>
   </table>
 </a>
+
+<p align="center">
+  <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
