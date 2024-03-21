@@ -35,12 +35,12 @@ Apart from the pinned repositories, I have built:
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Mongodb](https://img.shields.io/badge/Mongodb-43853D?logo=mongodb&logoColor=white)
+<img alt="Mongodb" src="https://img.shields.io/badge/-Mongodb-43853D?style=flat-square&logo=Mongodb&logoColor=white" />
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-DD0031?style=flat-square&logo=hasura&logoColor=white" />
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-red?style=flat-square&logo=Redis&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E10098?style=flat-square&logo=Jenkins&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=white" />
 <img alt="fastify" src="https://img.shields.io/badge/-fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
@@ -49,14 +49,14 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="gitlab" src="https://img.shields.io/badge/-gitlab-red?style=flat-square&logo=gitlab&logoColor=white" />
 <img alt="bitbucket" src="https://img.shields.io/badge/-bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas&logoColor=white" />
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white" />
+<img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-![Express](https://img.shields.io/badge/Express-43853D?logo=express&logoColor=white)
+<img alt="Express" src="https://img.shields.io/badge/-Express-43853D?style=flat-square&logo=Express&logoColor=white" />
 <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%2300599C.svg?style=flat&logo=Sequelize&logoColor=white" />
 <img alt="Bun" src="https://img.shields.io/badge/Bun-%2300599C.svg?style=flat&logo=Bun&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -69,7 +69,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Git" src="https://img.shields.io/badge/-Git-DD0031?style=flat-square&logo=git&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=43853D" />
-![Deno](https://img.shields.io/badge/Deno-232F3E?logo=deno)
+<img alt="Deno" src="https://img.shields.io/badge/-Deno-232F3E?style=flat-square&logo=Deno&logoColor=white" />
 <img alt="yarn" src="https://img.shields.io/badge/yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white" />
 <img alt="visual studio code" src="https://img.shields.io/badge/-visual_studio_code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
