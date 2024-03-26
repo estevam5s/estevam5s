@@ -43,12 +43,12 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E10098?style=flat-square&logo=Jenkins&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=white" />
-<img alt="fastify" src="https://img.shields.io/badge/-fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
-<img alt="fastAPI" src="https://img.shields.io/badge/-fastAPI-purple?style=flat-square&logo=fastAPI&logoColor=white" />
+<img alt="fastify" src="https://img.shields.io/badge/-Fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
+<img alt="fastAPI" src="https://img.shields.io/badge/-FastAPI-purple?style=flat-square&logo=fastAPI&logoColor=white" />
 <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-purple?style=flat-square&logo=Jetbrains&logoColor=white" />
-<img alt="gitlab" src="https://img.shields.io/badge/-gitlab-red?style=flat-square&logo=gitlab&logoColor=white" />
-<img alt="bitbucket" src="https://img.shields.io/badge/-bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/-pandas-black?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-red?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white" />
 <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
@@ -70,10 +70,10 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=43853D" />
 <img alt="Deno" src="https://img.shields.io/badge/-Deno-232F3E?style=flat-square&logo=Deno&logoColor=white" />
-<img alt="yarn" src="https://img.shields.io/badge/yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
+<img alt="yarn" src="https://img.shields.io/badge/Yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white" />
-<img alt="visual studio code" src="https://img.shields.io/badge/-visual_studio_code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="vim" src="https://img.shields.io/badge/-vim-green?style=flat-square&logo=vim&logoColor=white" />
+<img alt="visual studio code" src="https://img.shields.io/badge/-Visual_Studio_Code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img alt="vim" src="https://img.shields.io/badge/-Vim-green?style=flat-square&logo=vim&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=flat-square&logo=linux&logoColor=white" />
 <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-green?style=flat-square&logo=LaTex&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQlite%203-003B57?logo=SQlite&logoColor=white&labelColor=003B57" alt="SQlite3" />
