@@ -1,6 +1,5 @@
 <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
-<a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
 <a href="https://peerlist.io/estevam5s"><img src="https://github-readme-badge.peerlist.io/api/estevam5s"/></a>
 <a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=estevam5s%2Festevam5s&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
 <a href="https://github.com/estevam5s?tab=repositories"><img src="https://img.shields.io/github/stars/estevam5s?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
