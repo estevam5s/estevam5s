@@ -30,7 +30,7 @@ Apart from the pinned repositories, I have built:
 - 💧 [Nasa API with Nestjs](https://github.com/estevam5s/nasa)
 - 🦠 [stellarium](https://github.com/estevam5s/stellarium)
 
-### Tech Stack
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px" height="15px"> Tech Stack
 
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
@@ -82,7 +82,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver&logoColor=white" />
 <img alt="Travis" src="https://img.shields.io/badge/-Travis-purple?style=flat-square&logo=Travis&logoColor=white" />
 
-### Open Source Initiatives
+### <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> Open Source Initiatives
 
 I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led open source initiative that aims to improve JavaScript skills to crack upcoming JS interviews. Consider joining as a participant, mentor, or community partner.
 
@@ -129,7 +129,7 @@ I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led ope
 
 </details>
 
-### Let's connect! <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="32" /> Let's connect! <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hashnode.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/estevamsouza199) and [LinkedIn](https://www.linkedin.com/in/estevam-souza/).
 
