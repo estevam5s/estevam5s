@@ -81,6 +81,8 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="KnexJS" src="https://img.shields.io/badge/-KnexJS-F7DF1E?style=flat-square&logo=knex.js&logoColor=black" />
 <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver&logoColor=white" />
 <img alt="Travis" src="https://img.shields.io/badge/-Travis-purple?style=flat-square&logo=Travis&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-red?style=flat-square&logo=Postman&logoColor=white" />
+<img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux&logoColor=white" />
 
 <div width="100%" align="center">
    <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
