@@ -82,6 +82,20 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver&logoColor=white" />
 <img alt="Travis" src="https://img.shields.io/badge/-Travis-purple?style=flat-square&logo=Travis&logoColor=white" />
 
+<div width="100%" align="center">
+   <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
+
+   <a align="right" href="https://github.com/estevam5s/exodia-os-themes" title="Exodia OS"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=exodia-os-themes&theme=nightowl"></a>
+
+   <a align="right" href="https://github.com/estevam5s/codedrops-typegrahpql" title="Rocketseat"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=codedrops-typegrahpql&theme=nightowl"></a>
+    
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> Open Source Initiatives
 
 I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led open source initiative that aims to improve JavaScript skills to crack upcoming JS interviews. Consider joining as a participant, mentor, or community partner.
