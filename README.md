@@ -84,7 +84,7 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux&logoColor=white" />
 <img alt="NeoVim" src="https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-F7B93E?style=flat-square&logo=gnubash&logoColor=white" />
-
+<img alt="Adonis" src="https://img.shields.io/badge/-Adonis-ea2845?style=flat-square&logo=Adonisjs&logoColor=white" />
 
 <div width="100%" align="center">
    <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
