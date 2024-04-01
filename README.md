@@ -38,44 +38,19 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-DD0031?style=flat-square&logo=hasura&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-red?style=flat-square&logo=Redis&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E10098?style=flat-square&logo=Jenkins&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=white" />
 <img alt="fastify" src="https://img.shields.io/badge/-Fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
-<img alt="fastAPI" src="https://img.shields.io/badge/-FastAPI-purple?style=flat-square&logo=fastAPI&logoColor=white" />
-<img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-purple?style=flat-square&logo=Jetbrains&logoColor=white" />
-<img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-red?style=flat-square&logo=gitlab&logoColor=white" />
-<img alt="bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white" />
-<img alt="pandas" src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white" />
 <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-43853D?style=flat-square&logo=Express&logoColor=white" />
 <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%2300599C.svg?style=flat&logo=Sequelize&logoColor=white" />
-<img alt="Bun" src="https://img.shields.io/badge/Bun-%2300599C.svg?style=flat&logo=Bun&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img src="https://img.shields.io/badge/-Angular%20-DD0031?logo=Angular&logoColor=white&labelColor=DD0031" alt="Angular" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Eslint" src="https://img.shields.io/badge/Eslint-%2300599C.svg?style=flat&logo=Eslint&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-<img alt="Axios" src="https://img.shields.io/badge/Axios-%23316192.svg?style=flat&logo=axios&logoColor=purple" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-DD0031?style=flat-square&logo=git&logoColor=white" />
-<img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=43853D" />
 <img alt="Deno" src="https://img.shields.io/badge/-Deno-232F3E?style=flat-square&logo=Deno&logoColor=white" />
 <img alt="yarn" src="https://img.shields.io/badge/Yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
-<img alt="Github" src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white" />
-<img alt="visual studio code" src="https://img.shields.io/badge/-Visual_Studio_Code-2088FF?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="vim" src="https://img.shields.io/badge/-Vim-green?style=flat-square&logo=vim&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=flat-square&logo=linux&logoColor=white" />
-<img alt="LaTex" src="https://img.shields.io/badge/-LaTex-green?style=flat-square&logo=LaTex&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQlite%203-003B57?logo=SQlite&logoColor=white&labelColor=003B57" alt="SQlite3" />
 <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-007ACC?style=flat-square&logo=Prisma&logoColor=white" />
 <img alt="KnexJS" src="https://img.shields.io/badge/-KnexJS-F7DF1E?style=flat-square&logo=knex.js&logoColor=black" />
 <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver&logoColor=white" />
@@ -83,8 +58,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-red?style=flat-square&logo=Postman&logoColor=white" />
 <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux&logoColor=white" />
 <img alt="NeoVim" src="https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-F7B93E?style=flat-square&logo=gnubash&logoColor=white" />
-<img alt="Adonis" src="https://img.shields.io/badge/-Adonis-ea2845?style=flat-square&logo=Adonisjs&logoColor=white" />
 
 <div width="100%" align="center">
    <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
