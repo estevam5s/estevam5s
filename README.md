@@ -55,9 +55,13 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="KnexJS" src="https://img.shields.io/badge/-KnexJS-F7DF1E?style=flat-square&logo=knex.js&logoColor=black" />
 <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver&logoColor=white" />
 <img alt="Travis" src="https://img.shields.io/badge/-Travis-purple?style=flat-square&logo=Travis&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-red?style=flat-square&logo=Postman&logoColor=white" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux&logoColor=white" />
 <img alt="NeoVim" src="https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white" />
+<img alt="Adonis" src="https://img.shields.io/badge/-Adonis-ea2845?style=flat-square&logo=Adonisjs&logoColor=white" />
+<img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E10098?style=flat-square&logo=Jenkins&logoColor=white" />
+<img alt="Axios" src="https://img.shields.io/badge/Axios-%23316192.svg?style=flat&logo=axios&logoColor=purple" />
 
 <div width="100%" align="center">
    <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
