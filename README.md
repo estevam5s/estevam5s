@@ -81,6 +81,47 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 
 I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led open source initiative that aims to improve JavaScript skills to crack upcoming JS interviews. Consider joining as a participant, mentor, or community partner.
 
+### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="32" /> Let's connect! <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+
+Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hashnode.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/estevamsouza199) and [LinkedIn](https://www.linkedin.com/in/estevam-souza/).
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/estevamsouza199?style=social)](https://twitter.com/estevamsouza199) [![Peerlist](https://github-readme-badge.peerlist.io/api/estevam5s)](https://peerlist.io/estevam5s)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=estevamsouza&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/estevam-souza/) [![GitHub followers](https://img.shields.io/github/followers/estevam5s.svg?label=Follow%20@estevam5s&style=social)](https://github.com/estevam5s/)
+
+**Let's code, connect, and create awesome things together!**
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=estevam5s&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam5s&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=estevam5s&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/estevamsl"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
+<br />
+<a href="https://www.estevamsouza.com/">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://bloggertecnology.vercel.app/">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
+
+<p align="center">
+  <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
+
 <details>
 <summary>☄️ more</summary>
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
@@ -123,44 +164,3 @@ I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led ope
 </table> -->
 
 </details>
-
-### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="32" /> Let's connect! <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
-Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hashnode.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/estevamsouza199) and [LinkedIn](https://www.linkedin.com/in/estevam-souza/).
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/estevamsouza199?style=social)](https://twitter.com/estevamsouza199) [![Peerlist](https://github-readme-badge.peerlist.io/api/estevam5s)](https://peerlist.io/estevam5s)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=estevamsouza&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/estevam-souza/) [![GitHub followers](https://img.shields.io/github/followers/estevam5s.svg?label=Follow%20@estevam5s&style=social)](https://github.com/estevam5s/)
-
-**Let's code, connect, and create awesome things together!**
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=estevam5s&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=estevam5s&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=estevam5s&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/estevamsl"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-</p>
-
-<br />
-<a href="https://www.estevamsouza.com/">
-  <table align="left">
-      <tr>
-          <td>
-            😊&nbsp;&nbsp;Learn more about me!
-          </td>
-      </tr>
-  </table>
-</a>
-<a href="https://bloggertecnology.vercel.app/">
-  <table align="right">
-      <tr>
-          <td>
-            🌐 &nbsp;&nbsp;Explore my blog!
-          </td>
-      </tr>
-  </table>
-</a>
-
-<p align="center">
-  <img src="https://github.com/estevam5s/estevam5s/blob/main/animated/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
