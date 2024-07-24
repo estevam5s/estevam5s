@@ -43,16 +43,14 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="fastify" src="https://img.shields.io/badge/-Fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
 <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-43853D?style=flat-square&logo=Express&logoColor=white" />
-<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%2300599C.svg?style=flat&logo=Sequelize&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=43853D" />
 <img alt="Deno" src="https://img.shields.io/badge/-Deno-232F3E?style=flat-square&logo=Deno&logoColor=white" />
 <img alt="yarn" src="https://img.shields.io/badge/Yarn-%2300599C.svg?style=flat&logo=yarn&logoColor=white" />
 <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-007ACC?style=flat-square&logo=Prisma&logoColor=white" />
 <img alt="KnexJS" src="https://img.shields.io/badge/-KnexJS-F7DF1E?style=flat-square&logo=knex.js&logoColor=black" />
+<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-%2300599C.svg?style=flat&logo=Sequelize&logoColor=white" />
 <img alt="DBeaver" src="https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver&logoColor=white" />
 <img alt="Travis" src="https://img.shields.io/badge/-Travis-purple?style=flat-square&logo=Travis&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
@@ -60,7 +58,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="NeoVim" src="https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white" />
 <img alt="Adonis" src="https://img.shields.io/badge/-Adonis-ea2845?style=flat-square&logo=Adonisjs&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-DD0031?style=flat-square&logo=jest&logoColor=white" />
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E10098?style=flat-square&logo=Jenkins&logoColor=white" />
 <img alt="Axios" src="https://img.shields.io/badge/Axios-%23316192.svg?style=flat&logo=axios&logoColor=purple" />
 
 <div width="100%" align="center">
