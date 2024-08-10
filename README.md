@@ -11,6 +11,8 @@ Enthusiast of the best backend development technologies.
 
 "Nothing in this world beats good old persistence. Talent doesn't beat. Nothing more common than talented failures. Genius doesn't beat. Unrecognized genius is practically a cliché. Education doesn't beat. The world is full of educated fools. Persistence and determination are powerful."
 
+[![Github Badge](https://img.shields.io/badge/-@estevam5s-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/estevam5s) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-estevam5s-orange.svg?style=flat&logo=postman)](https://winter-astronaut-2711.postman.co/me) [![NPM - Vinit Estevam](https://img.shields.io/badge/npm-estevam5s-231F20?logo=npm)](https://www.npmjs.com/~estevamsl) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-estevam5s-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@estevam5s) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-estevam5s-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/estevam5s)
+
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -34,8 +36,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kali-linux&logoColor=white" />
 <img alt="NeoVim" src="https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white" />
 <img alt="Adonis" src="https://img.shields.io/badge/-Adonis-ea2845?style=flat-square&logo=Adonisjs&logoColor=white" />
-
-[![Github Badge](https://img.shields.io/badge/-@estevam5s-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/estevam5s) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-estevam5s-orange.svg?style=flat&logo=postman)](https://winter-astronaut-2711.postman.co/me) [![NPM - Vinit Estevam](https://img.shields.io/badge/npm-estevam5s-231F20?logo=npm)](https://www.npmjs.com/~estevamsl) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-estevam5s-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@estevam5s) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-estevam5s-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/estevam5s)
 
 ### Featured blogs/articles
 
