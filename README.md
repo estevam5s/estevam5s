@@ -41,7 +41,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-2088FF?style=flat-square&logo=Flask&logoColor=white" />
 <img alt="fastify" src="https://img.shields.io/badge/-Fastify-F7B93E?style=flat-square&logo=fastify&logoColor=white" />
-<img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-43853D?style=flat-square&logo=Express&logoColor=white" />
