@@ -1,9 +1,6 @@
-<h1 align='center'>👋 Hello!</h1>
-<p align='center'>
-<a href="https://peerlist.io/estevam5s"><img src="https://github-readme-badge.peerlist.io/api/estevam5s"/></a>
-<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=estevam5s%2Festevam5s&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
-<a href="https://github.com/estevam5s?tab=repositories"><img src="https://img.shields.io/github/stars/estevam5s?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-</p>
+# 🏄‍♂️ Estevam Souza
+
+**`Software Developer (Developer/IoT/Cyber)`**
 
 Glad to see you here! I'm Estevam, a software engineer with a great passion for JavaScript and open source. With a talent for building event-oriented architecture, I balance code with badminton 🏸 and find peace in a sip of tea 🍵 and poetry 🎙️.
 
@@ -11,7 +8,7 @@ Enthusiast of the best backend development technologies.
 
 "Nothing in this world beats good old persistence. Talent doesn't beat. Nothing more common than talented failures. Genius doesn't beat. Unrecognized genius is practically a cliché. Education doesn't beat. The world is full of educated fools. Persistence and determination are powerful."
 
-[![Github Badge](https://img.shields.io/badge/-@estevam5s-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/vinitshahdeo-novo)](https://github.com/estevam5s) [![Vinit Shahdeo at Postman](http://img.shields.io/badge/Postman-estevam5s-orange.svg?style=flat&logo=postman)](https://winter-astronaut-2711.postman.co/me) [![NPM - Vinit Estevam](https://img.shields.io/badge/npm-estevam5s-231F20?logo=npm)](https://www.npmjs.com/~estevamsl) [![Vinit Shahdeo - Product Hunt](https://img.shields.io/badge/Product%20Hunt-estevam5s-critical?logo=producthunt&color=FF6154)](https://www.producthunt.com/@estevam5s) [![Sponsor Vinit Shahdeo](https://img.shields.io/badge/sponsor-estevam5s-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/estevam5s)
+### 🧰 Languages and Tools
 
 I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
 
@@ -37,21 +34,9 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 <img alt="NeoVim" src="https://img.shields.io/badge/-NeoVim-green?style=flat-square&logo=NeoVim&logoColor=white" />
 <img alt="Adonis" src="https://img.shields.io/badge/-Adonis-ea2845?style=flat-square&logo=Adonisjs&logoColor=white" />
 
-### Featured blogs/articles
+#
 
-- 📖 [Comandos Essenciais Do Docker](https://bloggertecnology.vercel.app/blogs/docker-commands)
-- 🚀 [Densenvolvendo Uma API Restful Com Nestjs + Mongodb](https://bloggertecnology.vercel.app/blogs/nestjs-mongodb-apirestful)
-- 💻 [Produtividade Absoluta Com Docker](https://bloggertecnology.vercel.app/blogs/produtividade-com-docker)
-- 🌟 [Melhores Práticas Para Escrever Código Limpo E Sustentável](https://bloggertecnology.vercel.app/blogs/best-practices-for-writing-clean-and-maintainable-code)
-- 🧠 [Produtividade Com NestJS](https://bloggertecnology.vercel.app/blogs/nestjs-produtividade)
-
-### Projects
-
-Apart from the pinned repositories, I have built:
-- 🛡️ [Nestjs](https://github.com/estevam5s/nest)
-- 🔍 [Data](https://github.com/estevam5s/big-data)
-- 💧 [Nasa API with Nestjs](https://github.com/estevam5s/nasa)
-- 🦠 [stellarium](https://github.com/estevam5s/stellarium)
+### 📺 Repositories
 
 <div width="100%" align="center">
    <a align="right" href="https://github.com/estevam5s/nasa" title="Nasa"><img align="left"  height="90px" src="https://github-readme-stats.vercel.app/api/pin/?username=estevam5s&repo=nasa&theme=nightowl"></a>
@@ -64,18 +49,6 @@ Apart from the pinned repositories, I have built:
 <br />
 <br />
 <br />
-
-### <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> Open Source Initiatives
-
-I'm currently seeking collaboration for #50DaysOfJavaScript, a community-led open source initiative that aims to improve JavaScript skills to crack upcoming JS interviews. Consider joining as a participant, mentor, or community partner.
-
-### <img src="https://github.githubassets.com/images/mona-whisper.gif" width="32" /> Let's connect! <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
-Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hashnode.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/estevamsouza199) and [LinkedIn](https://www.linkedin.com/in/estevam-souza/).
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/estevamsouza199?style=social)](https://twitter.com/estevamsouza199) [![Peerlist](https://github-readme-badge.peerlist.io/api/estevam5s)](https://peerlist.io/estevam5s)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=estevamsouza&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/estevam-souza/) [![GitHub followers](https://img.shields.io/github/followers/estevam5s.svg?label=Follow%20@estevam5s&style=social)](https://github.com/estevam5s/)
-
-**Let's code, connect, and create awesome things together!**
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=estevam5s&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -144,11 +117,5 @@ Explore my thoughts at [estevamblogger.hashnode.dev](https://estevamblogger.hash
 <!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
 </tr>
 </table>
-
-<!-- <table>
-<tr>
-<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
-</tr>
-</table> -->
 
 </details>
