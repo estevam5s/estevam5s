@@ -11,3 +11,6 @@ Fico feliz em vê-lo aqui! Eu sou Estevam, um engenheiro de software com uma gra
 Entusiasta das melhores tecnologias de desenvolvimento de back-end.
 
 "Nada neste mundo supera a boa e velha persistência. O talento não bate. Nada mais comum do que fracassos talentosos. O génio não bate. Gênio não reconhecido é praticamente um clichê. A educação não bate. O mundo está cheio de tolos educados. Persistência e determinação são poderosas."
+
+<img width="400"
+src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,vite,vercel,nodejs,java,nest,mysql,mongodb,postgres,git,github,linux,docker" />
