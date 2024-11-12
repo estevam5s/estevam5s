@@ -15,5 +15,5 @@ Entusiasta das melhores tecnologias de desenvolvimento de back-end.
 </br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,py,ts,nest,graphql,deno,prisma,postgres,git,linux,docker,reactivex,yarn,cpp" width="1600"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,deno,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize,vite,vercel,docker,postgres,mongodb,planetscale,supabase,heroku,git,arch,yarn,neovim,vscode,obsidian" width="1600"/>
 </p>
