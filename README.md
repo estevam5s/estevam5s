@@ -6,7 +6,9 @@ Software Developer.
 [![Linkedin Badge](https://img.shields.io/badge/-Estevam%20Souza-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevam-souza)](https://www.linkedin.com/in/estevam-souza) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@estevamsouza.com.br-00875f?style=flat-square&logo=Zoho&logoColor=white&link=mailto:contato@estevamsouza.com.br)](mailto:contato@estevamsouza.com.br)
 
-Fico feliz em vê-lo aqui! Eu sou Estevam, um engenheiro de software com uma grande paixão por JavaScript e código aberto. Com um talento para a construção de arquitetura orientada para eventos, equilibro o código com o badminton 🏸 e encontro a paz num gole de chá 🍵 e poesia  ⁇ .
+Especializado em desenvolvimento backend, cibersegurança e IoT, Estevam busca criar soluções inovadoras e escaláveis.
+Cursando Sistemas de Informação, ele tem experiência em projetos de IoT, análise de dados e eletrônica, utilizando tecnologias como Python, SQL e microcontroladores.
+Focado em se especializar em Cibersegurança, DevOps, Big Data e Engenharia de Software, Estevam aplica suas habilidades para garantir sistemas seguros e eficientes.
 
 Entusiasta das melhores tecnologias de desenvolvimento de back-end.
 
