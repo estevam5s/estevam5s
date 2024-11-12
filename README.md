@@ -15,4 +15,4 @@ Entusiasta das melhores tecnologias de desenvolvimento de back-end.
 </br>
 
 <img width="800"
-src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,nodejs,java,nest,mysql,mongodb,postgres,git,github,linux,docker" />
+src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,ts,nest,hasura,graphql,deno,prisma,adonis,flask,mongodb,java,mysql,postgres,git,github,linux,docker" />
