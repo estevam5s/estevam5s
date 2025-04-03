@@ -1,4 +1,4 @@
-# Estevam Souza ☕
+e# Estevam Souza ☕
 
 Software Developer.
 
@@ -19,6 +19,6 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 </br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize" height="30"/>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongodb,planetscale,supabase,heroku,git,arch,yarn,vscode" height="30"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize" height="25"/>
+  <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongodb,planetscale,supabase,heroku,git,arch,yarn,vscode" height="25"/>
 </p>
