@@ -1,4 +1,4 @@
-e# Estevam Souza ☕
+# Estevam Souza ☕
 
 Software Developer.
 
@@ -16,7 +16,6 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 
 'A persistência é o fator determinante para o sucesso profissional. Talento por si só é insuficiente, evidenciado pelos inúmeros talentos que não alcançam seu potencial. A genialidade sem aplicação prática raramente é reconhecida. A formação acadêmica, embora valiosa, não garante resultados. É através da persistência e determinação consistentes que se conquistam resultados verdadeiramente significativos.'
 
-</br>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize" height="26"/>
