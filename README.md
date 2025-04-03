@@ -20,3 +20,58 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,deno,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize,vite,vercel,docker,postgres,mongodb,planetscale,supabase,heroku,git,arch,yarn,neovim,vscode,obsidian" width="1600"/>
 </p>
+
+
+
+
+<br>
+<div align="center">
+  <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
+  <details>
+    <summary>See more</summary>
+    <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
+    <a href="#"><img src="assets/typing.svg"></a>
+    <details open>
+      <summary>About me</summary>
+      <div align="left">
+
+```javascript
+/**
+ * Represents me.
+ * @constructor
+ * @param {string} languages - Hindi, Gujrati, English.
+ * @param {string} hobbies - Cricket, Music, Gaming.
+ * @param {string} interests - DiscordJS, Open Source, Javascript, Java.
+ * @param {Date} birthday - 28th of May.
+ */
+```
+  </div>
+</details>
+
+
+<details open>
+  <summary>Discord Status</summary>
+  <div>
+    <a href="https://discord.com/users/838764339942785051" target="_blank">
+      <img src="https://oyepriyansh.pages.dev/9d5grh" width="355px">
+    </a> <br>
+  </div>
+</details><details open>
+  <summary>GitHub Stats</summary>
+
+  <a href="#"><img src="github_stats.svg" width="355px"></a><br>
+
+</details>
+
+
+<details open>
+  <summary>Recent Activity</summary>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+</details>
+
+</details>
+  <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
+</div>
