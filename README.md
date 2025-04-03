@@ -18,7 +18,7 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 
 </br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize" width="500"/>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongodb,planetscale,supabase,heroku,git,arch,yarn,vscode" width="300"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,html,css,js,nodejs,react,nextjs,nest,flask,reactivex,graphql,prisma,sequelize" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongodb,planetscale,supabase,heroku,git,arch,yarn,vscode" height="50"/>
 </p>
