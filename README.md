@@ -2,9 +2,10 @@
 
 Software Developer.
 
-[![BuyMeACoffee Badge](https://img.shields.io/badge/-@estevamsl-00875f?style=flat-square&labelColor=00875f&logo=buymeacoffee&logoColor=white&link=https://buymeacoffee.com/estevamsl)](https://buymeacoffee.com/estevamsl)
-[![Linkedin Badge](https://img.shields.io/badge/-Estevam%20Souza-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estevam-souza)](https://www.linkedin.com/in/estevam-souza) 
-[![Gmail Badge](https://img.shields.io/badge/-contato@estevamsouza.com.br-00875f?style=flat-square&logo=Zoho&logoColor=white&link=mailto:contato@estevamsouza.com.br)](mailto:contato@estevamsouza.com.br)
+[![Website Badge](https://img.shields.io/badge/-estevamsouza.com.br-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://estevamsouza.com.br)
+[![Twitter Badge](https://img.shields.io/badge/-estevamsl-1ca0f1?style=flat&labelColor=1ca0f1&logo=buymeacoffee&logoColor=white&link=https://buymeacoffee.com/estevamsl)](https://buymeacoffee.com/estevamsl)
+[![Zoho Badge](https://img.shields.io/badge/-contato@estevamsouza.com.br-purple?style=flat&logo=Zoho&logoColor=white&link=mailto:contato@estevamsouza.com.br)](mailto:contato@estevamsouza.com.br)
+
 
 Especialista em desenvolvimento backend, cibersegurança e Internet das Coisas (IoT), Estevam dedica-se à criação de soluções inovadoras e escaláveis para desafios tecnológicos complexos.
 
