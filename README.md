@@ -23,14 +23,13 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 
 
 
-
 <br>
 <div align="center">
-  <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
+  <a href="#"><img src="https://github.com/oyepriyansh/oyepriyansh/blob/main/assets/pokeball-top.png?raw=true" width="370px" height="170px"></a>
   <details>
     <summary>See more</summary>
-    <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
-    <a href="#"><img src="assets/typing.svg"></a>
+    <a href="#"><img src="https://github.com/oyepriyansh/oyepriyansh/blob/main/assets/bitmoji.png?raw=true" width="150"></a> <br>
+    <a href="#"><img src="https://raw.githubusercontent.com/oyepriyansh/oyepriyansh/92a1f3cc3cfc2f132ae145fde3e12f37096e3afb/assets/typing.svg"></a>
     <details open>
       <summary>About me</summary>
       <div align="left">
@@ -73,5 +72,5 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 </details>
 
 </details>
-  <a href="#"><img src="assets/pokeball-bottom.png" width="370px" height="170px"></a>
+  <a href="#"><img src="https://github.com/oyepriyansh/oyepriyansh/blob/main/assets/pokeball-bottom.png?raw=true" width="370px" height="170px"></a>
 </div>
