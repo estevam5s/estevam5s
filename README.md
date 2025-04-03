@@ -27,11 +27,11 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 <div align="center">
   <a href="#"><img src="https://github.com/oyepriyansh/oyepriyansh/blob/main/assets/pokeball-top.png?raw=true" width="370px" height="170px"></a>
   <details>
-    <summary>See more</summary>
+    <summary>Veja mais</summary>
     <a href="#"><img src="https://github.com/oyepriyansh/oyepriyansh/blob/main/assets/bitmoji.png?raw=true" width="150"></a> <br>
     <a href="#"><img src="https://raw.githubusercontent.com/oyepriyansh/oyepriyansh/92a1f3cc3cfc2f132ae145fde3e12f37096e3afb/assets/typing.svg"></a>
     <details open>
-      <summary>About me</summary>
+      <summary>Sobre</summary>
       <div align="left">
 
 ```javascript
@@ -49,16 +49,9 @@ Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
 
 
 <details open>
-  <summary>Discord Status</summary>
-  <div>
-    <a href="https://discord.com/users/838764339942785051" target="_blank">
-      <img src="https://oyepriyansh.pages.dev/9d5grh" width="355px">
-    </a> <br>
-  </div>
-</details><details open>
   <summary>GitHub Stats</summary>
 
-  <a href="#"><img src="github_stats.svg" width="355px"></a><br>
+  <a href="#"><img src="https://raw.githubusercontent.com/oyepriyansh/oyepriyansh/92a1f3cc3cfc2f132ae145fde3e12f37096e3afb/github_stats.svg" width="355px"></a><br>
 
 </details>
 
