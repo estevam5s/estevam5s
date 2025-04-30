@@ -6,8 +6,6 @@ Software Developer.
 [![Twitter Badge](https://img.shields.io/badge/-estevamsl-1ca0f1?style=flat&labelColor=1ca0f1&logo=buymeacoffee&logoColor=white&link=https://buymeacoffee.com/estevamsl)](https://buymeacoffee.com/estevamsl)
 [![Zoho Badge](https://img.shields.io/badge/-contato@estevamsouza.com.br-purple?style=flat&logo=Zoho&logoColor=white&link=mailto:contato@estevamsouza.com.br)](mailto:contato@estevamsouza.com.br)
 
-</br>
-
 Especializado em desenvolvimento backend, cibersegurança e IoT, Estevam busca criar soluções inovadoras e escaláveis.
 
 Cursando Sistemas de Informação, ele tem experiência em projetos de IoT, análise de dados e eletrônica, utilizando tecnologias como Python, SQL e microcontroladores.
