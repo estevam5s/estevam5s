@@ -8,12 +8,13 @@ Software Developer.
 
 </br>
 
-Especialista em desenvolvimento backend, cibersegurança e Internet das Coisas (IoT), Estevam dedica-se à criação de soluções inovadoras e escaláveis para desafios tecnológicos complexos.
+Especializado em desenvolvimento backend, cibersegurança e IoT, Estevam busca criar soluções inovadoras e escaláveis.
 
-Acadêmico de Sistemas de Informação, possui experiência consolidada em projetos de IoT, análise de dados e desenvolvimento de hardware, utilizando tecnologias como Python, SQL e programação de microcontroladores.
+Cursando Sistemas de Informação, ele tem experiência em projetos de IoT, análise de dados e eletrônica, utilizando tecnologias como Python, SQL e microcontroladores.
 
-Com foco estratégico em aprofundar sua expertise em Cibersegurança, DevOps, Big Data e Engenharia de Software, aplica metodologias avançadas para garantir a implementação de sistemas robustos, seguros e de alta performance.
-Profundo conhecedor das tecnologias de ponta para desenvolvimento backend.
+Focado em se especializar em Cibersegurança, DevOps, Big Data e Engenharia de Software, Estevam aplica suas habilidades para garantir sistemas seguros e eficientes.
+
+Estevam está sempre aberto a novas oportunidades e conversas sobre desenvolvimento e tecnologia.
 
 'A persistência é o fator determinante para o sucesso profissional. Talento por si só é insuficiente, evidenciado pelos inúmeros talentos que não alcançam seu potencial. A genialidade sem aplicação prática raramente é reconhecida. A formação acadêmica, embora valiosa, não garante resultados. É através da persistência e determinação consistentes que se conquistam resultados verdadeiramente significativos.'
 
