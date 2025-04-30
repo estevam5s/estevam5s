@@ -14,8 +14,6 @@ Estevam está sempre aberto a novas oportunidades e conversas sobre desenvolvime
 
 'A persistência é o fator determinante para o sucesso profissional. Talento por si só é insuficiente, evidenciado pelos inúmeros talentos que não alcançam seu potencial. A genialidade sem aplicação prática raramente é reconhecida. A formação acadêmica, embora valiosa, não garante resultados. É através da persistência e determinação consistentes que se conquistam resultados verdadeiramente significativos.'
 
-</br>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,reactivex,graphql,prisma,sequelize,nextjs,nest,py,flask,cpp" height="26"/>
   <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongodb,planetscale,supabase,heroku,yarn,git,vscode,arch" height="26"/>
