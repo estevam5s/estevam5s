@@ -1,7 +1,5 @@
 # Estevam Souza ☕
 
-Software Developer.
-
 [![Website Badge](https://img.shields.io/badge/-estevamsouza.com.br-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://estevamsouza.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-estevamsl-1ca0f1?style=flat&labelColor=1ca0f1&logo=buymeacoffee&logoColor=white&link=https://buymeacoffee.com/estevamsl)](https://buymeacoffee.com/estevamsl)
 [![Zoho Badge](https://img.shields.io/badge/-contato@estevamsouza.com.br-purple?style=flat&logo=Zoho&logoColor=white&link=mailto:contato@estevamsouza.com.br)](mailto:contato@estevamsouza.com.br)
