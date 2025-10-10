@@ -1,16 +1,14 @@
-# Estevam Souza ☕
+# Estevam Souza
 
-[![Website Badge](https://img.shields.io/badge/-estevamsouza.com.br-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://estevamsouza.com.br)
-[![Twitter Badge](https://img.shields.io/badge/-estevamsl-1ca0f1?style=flat&labelColor=1ca0f1&logo=buymeacoffee&logoColor=white&link=https://buymeacoffee.com/estevamsl)](https://buymeacoffee.com/estevamsl)
-[![Zoho Badge](https://img.shields.io/badge/-contato@estevamsouza.com.br-purple?style=flat&logo=Zoho&logoColor=white&link=mailto:contato@estevamsouza.com.br)](mailto:contato@estevamsouza.com.br)
+Profissional apaixonado por tecnologia e inovação, com sólida base em desenvolvimento de software e infraestrutura. Atualmente em transição para a área de Engenharia de Dados, unindo conhecimentos em Python, SQL, ETL e Business Intelligence para transformar dados em insights estratégicos.
 
-Desenvolvedor apaixonado por inovação tecnológica, especializado em arquiteturas escaláveis e soluções empresariais. Criador das linguagens PetCareScript e Quasar, combina expertise técnica com visão empreendedora para transformar ideias em produtos digitais de impacto.
+Criador das linguagens PetCareScript, Quasar e KronosSQL, combina pensamento analítico com visão empreendedora, aplicando boas práticas de engenharia de software, automação e segurança da informação para construir soluções escaláveis e eficientes.
 
-Cursando Sistemas de Informação, ele tem experiência em projetos de IoT, análise de dados e eletrônica, utilizando tecnologias como Python, SQL e microcontroladores.
+Cursando Sistemas de Informação e atuando no Laboratório de Tecnologia e Desenvolvimento (LTD) da Estácio de Florianópolis, onde desenvolve projetos voltados a banco de dados, IA e infraestrutura.
 
-Focado em se especializar em Cibersegurança, DevOps, Big Data e Engenharia de Software, Estevam aplica suas habilidades para garantir sistemas seguros e eficientes.
+Em busca de especialização em Engenharia de Dados e Big Data, com o objetivo de atuar em projetos que envolvam integração de dados, modelagem, nuvem e visualização inteligente de informações.
 
-Estevam está sempre aberto a novas oportunidades e conversas sobre desenvolvimento e tecnologia.
+Sempre aberto a novas oportunidades e colaborações nas áreas de dados, tecnologia e inovação.
 
 'A persistência é o fator determinante para o sucesso profissional. Talento por si só é insuficiente, evidenciado pelos inúmeros talentos que não alcançam seu potencial. A genialidade sem aplicação prática raramente é reconhecida. A formação acadêmica, embora valiosa, não garante resultados. É através da persistência e determinação consistentes que se conquistam resultados verdadeiramente significativos.'
 
