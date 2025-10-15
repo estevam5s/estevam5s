@@ -9,6 +9,7 @@ Cursa Sistemas de Informação e integra o Laboratório de Tecnologia e Desenvol
 Em constante evolução acadêmica e profissional, busca aprofundar-se em Big Data, Cloud Computing e Data Analytics, contribuindo para projetos que envolvam integração, modelagem e governança de dados, além de soluções em nuvem e visualizações inteligentes que potencializem a tomada de decisão.
 
 Aberto a novas oportunidades e colaborações nas áreas de dados, tecnologia e inovação, com o compromisso de transformar informação em resultados concretos e impacto real.
+
 'A persistência é o fator determinante para o sucesso profissional. Talento por si só é insuficiente, evidenciado pelos inúmeros talentos que não alcançam seu potencial. A genialidade sem aplicação prática raramente é reconhecida. A formação acadêmica, embora valiosa, não garante resultados. É através da persistência e determinação consistentes que se conquistam resultados verdadeiramente significativos.'
 
 <p align="left">
