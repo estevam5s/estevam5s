@@ -3,7 +3,7 @@
 Aberto a novas oportunidades e colaborações nas áreas de dados, tecnologia e inovação, com o compromisso de transformar informação em resultados concretos e impacto real.</h3>
 <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" />
 
-<p align="right" margin="100px"> <img src="https://komarev.com/ghpvc/?username=purvesh77&label=Profile%20views&color=0e75b6&style=flat" alt="purvesh77" /> </p>
+<p align="right" margin="100px"> <img src="https://komarev.com/ghpvc/?username=estevam5s&label=Profile%20views&color=0e75b6&style=flat" alt="estevam5s" /> </p>
 
 - 🔭 Atualmente em busca de experiencia profissional
 
