@@ -17,7 +17,7 @@ Aberto a novas oportunidades e colaborações nas áreas de dados, tecnologia e 
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/estevam-sozua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/estevam-souza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/estevam-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/estevam-souza/" height="30" width="40" /></a>
 <a href="https://estevamsouza.com.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="https://estevamsouza.com.br" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
