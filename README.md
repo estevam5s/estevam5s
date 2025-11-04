@@ -22,7 +22,7 @@ Aberto a novas oportunidades e colaborações nas áreas de dados, tecnologia e 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,js,py,flask,cpp" height="26"/>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongo,supabase,heroku,git,vscode,arch" height="26"/>
+  <img src="https://skillicons.dev/icons?i=vercel,docker,postgres,mongo,nestjs,supabase,heroku,arduino,androidstudio,gitlab,vscode,linux,arch,kali" height="26"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estevam5s&show_icons=true&locale=en&theme=radical&layout=donut-vertical" alt="estevam5s" /></p>
@@ -32,3 +32,7 @@ Aberto a novas oportunidades e colaborações nas áreas de dados, tecnologia e 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![](https://github-trophies.vercel.app/?username=estevam5s&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
