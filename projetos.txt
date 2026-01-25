@@ -1,0 +1,1010 @@
+nome projeto: relatorio-vendas-pedacinho-do-ceu
+descrição: O Sistema de Análise de Vendas é uma solução web completa e intuitiva desenvolvida para auxiliar gestores de restaurantes, bares e estabelecimentos comerciais na análise de seus dados de vendas. Com interface moderna e responsiva, o sistema transforma relatórios complexos em visualizações claras e acionáveis.
+repositório: https://github.com/estevam5s/relatorio-vendas-pedacinho-do-ceu
+site: https://relatorio-vendas-pedacinho-do-ceu.vercel.app/
+tecnologia: Python, HTML, CSS, JS, Inno Setup, Batchfile
+tipo: Frontend
+
+nome projeto: sistema-backup-e-migracao-para-macos
+descrição: Ferramentas para analisar, fazer backup e migrar configurações entre Macs de forma automatizada.
+repositório: https://github.com/estevam5s/sistema-backup-e-migracao-para-macos
+site: https://sistema-backup-e-migracao-para-maco.vercel.app/
+tecnologia: Shell, JS, Python, HTML, Ruby
+tipo: Frontend
+
+nome projeto: nasa
+descrição: Sistema avançado de gerenciamento de banco de dados astronômicos utilizando tecnologias NestJS e GraphQL. Esta solução abrangente implementa operações CRUD para dados planetários do sistema solar, apresentando implantação de banco de dados PostgreSQL containerizado através do Docker Compose.
+repositório: https://github.com/estevam5s/nasa
+site: Não tem
+tecnologia: TS, JS, Docker, Shell
+tipo: Backend, API
+
+nome projeto: alexa-skill
+descrição: Skill avançada para Alexa aproveitando capacidades de IA do GPT-4 para interações por voz aprimoradas. Implementa processamento sofisticado de linguagem natural e geração de respostas.
+repositório: https://github.com/estevam5s/alexa-skill
+site: Não tem
+tecnologia: JS, Python
+tipo: Backend
+
+nome projeto: portfolio-leo
+descrição: Este projeto é um portfólio profissional full-stack desenvolvido com as tecnologias mais modernas do mercado. Combina uma interface pública elegante e responsiva com um poderoso painel administrativo que permite gerenciar todo o conteúdo do site de forma dinâmica, sem necessidade de alterações no código.
+repositório: https://github.com/Freelancer-Profissional/portfolio-leo
+site: https://leonardodaniel.vercel.app/
+tecnologia: JS, TS, PLpgSQL, Next.js, ReactJS, Supabase, Nodemailer
+tipo: Full-stack
+
+nome projeto: barbearia-luiz
+descrição: Hogar Barbershop é uma aplicação web full-stack moderna desenvolvida com Next.js 15, React 19 e TypeScript, criada para revolucionar a experiência digital de uma barbearia tradicional em Biguaçu/SC. O projeto combina design contemporâneo, inteligência artificial e gestão administrativa avançada.
+repositório: https://github.com/Freelancer-Profissional/barbearia-luiz
+site: https://hogarbarbershop.com.br/
+tecnologia: Next.js, React, Typescript, TailwindCSS, Supabase
+tipo: Full-stack
+
+nome projeto: gastonvera
+descrição: Site profissional do fisioterapeuta Gaston Vera, apresentando serviços especializados em reabilitação física e fisioterapia esportiva. Desenvolvido com HTML, CSS e JavaScript, inclui chatbot IA para atendimento 24/7. Interface moderna e responsiva com Tailwind CSS e integração EmailJS para contato.
+repositório: https://github.com/Freelancer-Profissional/gastonvera.com
+site: https://gastonvera.com/
+tecnologia: CSS, HTML, Roff, JS
+tipo: Full-stack
+
+nome projeto: Antigo Portfolio
+descrição: Portfólio profissional demonstrando ampla expertise em tecnologias modernas de desenvolvimento web. Apresenta domínio em desenvolvimento full-stack com JavaScript, TypeScript, React e Next.js, complementado por sólidos conhecimentos em gerenciamento de bancos de dados MongoDB e PostgreSQL.
+repositório: https://github.com/Portfolio-Profissional/portfolio.estevamsouza.com.br
+site: https://portfolio.estevamsouza.com.br/
+tecnologia: NextJS, JS, TS, HTML, CSS, React
+tipo: Frontend
+
+nome projeto: artigos.estevamsouza.com.br
+descrição: Como desenvolvedor independente, tenho passado horas e horas no meu escritorio/quarto todos os dias. Então, tenho melhorado continuamente meu espaço de trabalho para aumentar minha produtividade. Sempre que faço upload de novos conteúdo, as pessoas me perguntam quais ferramentas eu uso.
+repositório: https://github.com/Portfolio-Profissional/artigos.estevamsouza.com.br
+site: https://artigos.estevamsouza.com.br/
+tecnologia: Astro, CSS, TS, JS
+tipo: Frontend
+
+nome projeto: setup.estevamsouza.com.br
+descrição: Exposição detalhada de configurações de ambiente de desenvolvimento e pesquisa profissional. Esta plataforma abrangente documenta configurações ideais de ferramentas, otimizações de fluxo de trabalho e aprimoramentos de produtividade para práticas modernas.
+repositório: https://github.com/Portfolio-Profissional/setup.estevamsouza.com.br
+site: https://setup.estevamsouza.com.br/
+tecnologia: Astro, JS, TS, HTML, CSS
+tipo: Frontend
+
+nome projeto: vscode.estevamsouza.com.br
+descrição: Documentação detalhada de configurações do Visual Studio Code otimizadas para desenvolvimento profissional de software. Inclui guias abrangentes de configuração, recomendações de extensões e personalizações para aumentar a produtividade.
+repositório: https://github.com/Portfolio-Profissional/vscode.estevamsouza.com.br
+site: https://vscode.estevamsouza.com.br/
+tecnologia: TS, JS, HTML, CSS, NextJS
+tipo: Frontend
+
+nome projeto: blog.estevamsouza.com.br
+descrição: Plataforma de blog profissional sofisticada utilizando recursos avançados do Next.js 13 para desempenho ideal e otimização SEO. Implementa Contentlayer para gerenciamento eficiente de conteúdo e Tailwind CSS para design responsivo.
+repositório: https://github.com/Portfolio-Profissional/blog.estevamsouza.com.br
+site: https://blog.estevamsouza.com.br/
+tecnologia: MDX, JS, CSS, HTML
+tipo: Frontend
+
+nome projeto: newsletter.estevamsouza.com.br
+descrição: 
+repositório: https://github.com/Portfolio-Profissional/newsletter.estevamsouza.com.br
+site: https://newsletter.estevamsouza.com.br/
+tecnologia: TS, JS, CSS, HTML
+tipo: Frontend
+
+nome projeto: landingpage.estevamsouza.com.br
+descrição: 
+repositório: https://github.com/Portfolio-Profissional/landingpage.estevamsouza.com.br
+site: https://landingpage.estevamsouza.com.br/
+tecnologia: HTML, CSS, JS
+tipo: Frontend
+
+nome projeto: chatcurriculum.estevamsouza.com.br
+descrição: Plataforma automatizada de geração de currículos projetada para otimizar o processo de criação de CV. Implementa formatação inteligente de conteúdo, seleção profissional de modelos e otimização para diversos contextos profissionais.
+repositório: https://github.com/Portfolio-Profissional/chatcurriculum.estevamsouza.com.br
+site: https://chatcurriculum.estevamsouza.com.br/
+tecnologia: TS
+tipo: Frontend
+
+nome projeto: curriculocv
+descrição: Um modelo de portfólio minimalista, responsivo e personalizável criado com Astro e Tailwind CSS
+repositório: https://github.com/Portfolio-Profissional/curriculocv
+site: Não tem
+tecnologia: Astro, TS, JS, HTML, CSS
+tipo: Frontend
+
+nome projeto: curriculo.estevamsouza.com.br
+descrição: Repositório do meu portfólio pessoal e profissional desenvolvido com tecnologia Astro. Este projeto contém meu currículo completo, habilidades técnicas, experiências profissionais e formação acadêmica.
+repositório: https://github.com/Portfolio-Profissional/curriculo.estevamsouza.com.br
+site: https://curriculo.estevamsouza.com.br/
+tecnologia: Astro, HTML, CSS, JS, TS
+tipo: Frontend
+
+nome projeto: homepage.estevamsouza.com.br
+descrição: Um portal pessoal de links interativo desenvolvido com HTML, CSS e JavaScript que centraliza todos os recursos online importantes. Este hub digital apresenta um design cyberpunk com interface moderna e responsiva, sistema de pesquisa em tempo real, categorização intuitiva de links e efeitos visuais elegantes.
+repositório: https://github.com/Portfolio-Profissional/homepage.estevamsouza.com.br
+site: https://homepageestevamsouza.streamlit.app/
+tecnologia: Python, Streamlit, Pandas, Plotly
+tipo: Frontend
+
+nome projeto: bio.estevamsouza.com.br
+descrição: Página de links de código aberto, personalizável via JSON. Feito com Astro 4.
+repositório: https://github.com/Portfolio-Profissional/bio.estevamsouza.com.br
+site: https://bio.estevamsouza.com.br/
+tecnologia: Astro, CSS3, JS, Netlify
+tipo: Frontend
+
+nome projeto: luke-portfolio.estevamsouza.com.br
+descrição: Este portfolio foi desenvolvido para apresentar de forma profissional e interativa os serviços, projetos e experiências de Estevam Souza, desenvolvedor Full Stack especializado em tecnologias modernas e soluções de inteligência artificial.
+repositório: https://github.com/Portfolio-Profissional/luke-portfolio.estevamsouza.com.br
+site: https://estevamsouza.com.br/
+tecnologia: Next.js, React, Supabase, Tailwind, CSS
+tipo: Full-stack
+
+nome projeto: landing-page-dados
+descrição: Uma landing page estática que demonstra a apresentação visual e textual de um produto/serviço voltado para coleta e visualização de dados. Este repositório contém um protótipo simples baseado em HTML/CSS (arquivo principal: index.html) pensado para servir como ponto de partida, material de apresentação (pitch).
+repositório: https://github.com/Portfolio-Profissional/landing-page-dados
+site: https://landing-page-jet-six-40.vercel.app/
+tecnologia: HTML, CSS, JS
+tipo: Frontend
+
+nome projeto: SmartAgenda
+descrição: O SmartAgenda é um sistema completo e moderno de gestão para barbearias, desenvolvido com as melhores tecnologias do mercado. Oferece uma experiência mobile nativa com design inspirado nos melhores aplicativos do mercado (iOS, Instagram, Airbnb), proporcionando uma interface intuitiva e elegante.
+repositório: https://github.com/Smart-Agenda-Pro/SmartAgenda
+site: Não tem
+tecnologia: TS, PLpgSQL, React Native, Supabase
+tipo: App Android
+
+nome projeto: equilibrio
+descrição: Equilíbrio Academia é um aplicativo mobile completo para gerenciamento de academias, desenvolvido com React Native e Expo. O app oferece uma experiência completa para alunos e administradores, incluindo gestão de treinos, pagamentos, check-ins e muito mais.
+repositório: https://github.com/sistema-saas-academia/equilibrio
+site: Não tem
+tecnologia: Typescript, PLpgSQL, HTML, Kotlin, Objective-C++, Ruby, React Native
+tipo: App Android
+
+nome projeto: Site equilibrio
+descrição: Site institucional da Equilíbrio Academia desenvolvido em VueJS 3 com TypeScript, Vite e Supabase.
+repositório: https://github.com/sistema-saas-academia/site
+site: https://site-five-ruby-21.vercel.app/
+tecnologia: VueJS 3, TS, JS, Vite, Supabase
+tipo: Full-stack
+
+nome projeto: app-disciplina-estacio
+descrição: VagasTI é um aplicativo mobile desenvolvido em React Native que conecta profissionais de tecnologia a oportunidades de emprego. O aplicativo oferece uma experiência completa de busca de vagas, rede de contatos profissionais, gerenciamento de perfil e integração com outras plataformas.
+repositório: https://github.com/developing-in-React-Native/app-disciplina-estacio
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: ArduinoStudy
+descrição: O Arduino Study App é uma aplicação educacional revolucionária que combina inteligência artificial com um design moderno para proporcionar uma experiência de aprendizado personalizada em microcontroladores e IoT.
+repositório: https://github.com/developing-in-React-Native/ArduinoStudy
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: CurriculoBot
+descrição: O CurriculoBot é uma aplicação mobile revolucionária desenvolvida em React Native que utiliza inteligência artificial para auxiliar profissionais na criação, otimização e gestão de currículos. Com uma interface intuitiva e recursos avançados, o app transforma o processo tradicionalmente complexo de criação de currículos em uma experiência simples.
+repositório: https://github.com/developing-in-React-Native/CurriculoBot
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: consultório veterinario
+descrição: Sistema completo para gestão de clínicas veterinárias e petshops desenvolvido com React Native e Expo. Inclui autenticação, dashboard com estatísticas, gestão de clientes e pets, histórico de consultas, interface responsiva e armazenamento local. Solução moderna para profissionais veterinários.
+repositório: https://github.com/developing-in-React-Native/consultorio
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: llm
+descrição: O LLM AI Assistant é uma aplicação mobile desenvolvida em React Native que funciona como um assistente virtual inteligente para empresas. O sistema permite que funcionários e clientes façam perguntas sobre a empresa e recebam respostas precisas baseadas em uma base de conhecimento personalizada.
+repositório: https://github.com/developing-in-React-Native/llm
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: tasks
+descrição: Aplicativo móvel React Native desenvolvido com Expo para autenticação e navegação de usuários. Inclui sistema completo de login/logout, tela de carregamento, gerenciamento de estado e navegação segura. Solução moderna e responsiva para aplicações móveis cross-platform.
+repositório: https://github.com/developing-in-React-Native/tasks
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: petcareai
+descrição: PetCare AI é um aplicativo React Native revolucionário que transforma o cuidado com pets através da inteligência artificial. O app oferece cardápios personalizados, dicas de cuidados inteligentes, análise comportamental por imagem, acompanhamento completo de saúde e humor, controle de gastos, localização de serviços próximos e conteúdo educativo.
+repositório: https://github.com/developing-in-React-Native/petcareai
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: social-dev
+descrição: O SocialDev Mobile App é a versão nativa da plataforma SocialDev, desenvolvida com React Native e Expo. Oferece uma experiência móvel completa e otimizada para desenvolvedores, designers e estudantes se conectarem, compartilharem conhecimento, criarem currículos profissionais com IA e se prepararem para entrevistas técnicas.
+repositório: https://github.com/developing-in-React-Native/social-dev
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: gestao-estoque
+descrição: GestaoZe é um sistema moderno e completo de gestão de estoque desenvolvido com React Native e Expo. Projetado para empresas que buscam eficiência operacional, o sistema oferece análises inteligentes baseadas em IA, interface intuitiva e relatórios abrangentes.
+repositório: https://github.com/developing-in-React-Native/gestao-estoque
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: iot-telescope-control
+descrição: 
+repositório: https://github.com/developing-in-React-Native/iot-telescope-control
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: iot-plant
+descrição: 
+repositório: https://github.com/developing-in-React-Native/iot-plant
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: naf
+descrição: Sistema Completo de Gestão para Núcleo de Apoio Contábil e Fiscal NAF Digital é uma aplicação móvel multiplataforma que moderniza e otimiza a gestão de atendimentos em Núcleos de Apoio Contábil e Fiscal (NAF), facilitando o trabalho de estudantes e coordenadores.
+repositório: https://github.com/developing-in-React-Native/naf
+site: https://naf.ltdestacio.com.br/apk/naf.apk
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: equilibrio
+descrição: Equilíbrio Academia é um aplicativo mobile completo para gerenciamento de academias, desenvolvido com React Native e Expo. O app oferece uma experiência completa para alunos e administradores, incluindo gestão de treinos, pagamentos, check-ins e muito mais.
+repositório: https://github.com/developing-in-React-Native/equilibrio
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: SmartAgenda
+descrição: O SmartAgenda é um sistema completo e moderno de gestão para barbearias, desenvolvido com as melhores tecnologias do mercado. Oferece uma experiência mobile nativa com design inspirado nos melhores aplicativos do mercado (iOS, Instagram, Airbnb), proporcionando uma interface intuitiva e elegante
+repositório: https://github.com/developing-in-React-Native/SmartAgenda
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+nome projeto: algoritmos-complexidade
+descrição: Aplicativo móvel completo para aprendizado de algoritmos e programação, desenvolvido com React Native e Expo.
+repositório: https://github.com/developing-in-React-Native/algoritmos-complexidade
+site: Não tem
+tecnologia: React Native, TS, JS, Supabase
+tipo: App Android
+
+Ate agora foi adicionado apenas um repositorio
+
+nome projeto: hadoop-data-studio
+descrição: Uma extensão profissional para VS Code que fornece uma interface gráfica completa para gerenciar clusters Hadoop usando Python.
+repositório: https://github.com/developing-extensions-for-vscode/hadoop-data-studio	
+site: Não tem
+tecnologia: TS, JS, Python, CSS, Shell
+tipo: Extension
+
+nome projeto: doc-extension-algoritmos-complexidade
+descrição: Este diretório contém um site simples em Vue 3 + Vite com instruções e guias de uso da extensão.
+repositório: https://github.com/developing-extensions-for-vscode/doc-extension-algoritmos-complexidade
+site: https://doc-extension.vercel.app/
+tecnologia: JS, Vue, HTML, CSS
+tipo: 
+
+nome projeto: extension-algoritmos-and-complexidade
+descrição: O Algorithm Complexity Analyzer é uma ferramenta revolucionária que transforma a forma como você analisa e compreende algoritmos. Com tecnologia de ponta e interface intuitiva, oferece análise em tempo real, visualizações interativas e sugestões de otimização automatizadas.
+repositório: https://github.com/developing-extensions-for-vscode/extension-algoritmos-and-complexidade
+site: Não tem
+tecnologia: JS, Supabase, PLpgSQL
+tipo: Extension
+
+
+
+nome projeto: extension-linkedin-navegador
+descrição: Seu propósito principal é identificar vagas relevantes, comparar (fazer matching) essas vagas com o perfil do usuário e executar ações controladas (navegação, cliques, possíveis “Easy Apply”), tudo com mecanismos de segurança que tentam reduzir padrões óbvios de automação.
+repositório: https://github.com/developing-extensions-for-vscode/extension-linkedin-navegador
+site: Não tem
+tecnologia: JS, HTML
+tipo: Extension
+
+nome projeto: petcarescript-extension
+descrição: PetCareScript é uma linguagem de programação revolucionária projetada para tornar a codificação mais expressiva, legível e acessível para desenvolvedores de todos os níveis de habilidade. Esta extensão do VS Code fornece suporte abrangente para a linguagem PetCareScript.
+repositório: https://github.com/developing-extensions-for-vscode/petcarescript-extension
+site: https://marketplace.visualstudio.com/items?itemName=petcarescript.petcarescript
+tecnologia: JS
+tipo: Extension
+
+nome projeto: extension-for-devs
+descrição: Extensão completa para VS Code que oferece assistente IA integrado com Google Gemini 2.0, snippets avançados para desenvolvimento, temas personalizados, pets animados, dashboard interativo, clone rápido de repositórios, ferramentas de desenvolvimento e ambiente otimizado para o ecossistema PetCareAI
+repositório: https://github.com/developing-extensions-for-vscode/extension-for-devs
+site: Não tem
+tecnologia: JS
+tipo: Extension
+
+nome projeto: controle-gastos
+descrição: 
+repositório: https://github.com/sistemas-saas-restaurante/controle-gastos
+site: https://outtake-guide.lovable.app/
+tecnologia: TS, CSS, HTML
+tipo: Full-stack
+
+nome projeto: bigdataestacio
+descrição: Este é um projeto de análise de dados para um bar e restaurante localizado no sul da ilha de Florianópolis. O objetivo do projeto é utilizar as informações disponíveis para realizar análises e obter insights que possam ser utilizados para tomar decisões estratégicas
+repositório: https://github.com/sistemas-saas-restaurante/bigdataestacio.streamlit.app
+site: https://bigdataestacio.streamlit.app/
+tecnologia: Python, C++, Cython, C, JavaScript, XSLT
+tipo: Painel Dados
+
+nome projeto: gestao-empresarial
+descrição: O GestãoZe System é uma plataforma empresarial completa de gestão de estoque desenvolvida especificamente para o Restaurante Pedacinho do Céu e otimizada para estabelecimentos gastronômicos. Combina tecnologias de ponta com inteligência artificial para oferecer insights estratégicos e automação inteligente de processos.
+repositório: https://github.com/sistemas-saas-restaurante/gestao-empresarial
+site: https://gestao.restpedacinhodoceu.com.br/
+tecnologia: Vue, Typescript, Javascript, CSS, PLpgSQL, HTML, Supabase
+tipo: Full-stack
+
+nome projeto: pedacinho-website
+descrição: O Dashboard Pedacinho do Céu é uma aplicação web profissional de análise financeira desenvolvida especificamente para o gerenciamento de receitas do restaurante. Combinando tecnologias modernas de frontend (React 18, Webpack 5) com inteligência artificial (Google Gemini 2.0 Flash), o sistema oferece insights automáticos.
+repositório: https://github.com/sistemas-saas-restaurante/pedacinho-website
+site: https://pedacinhowebsite.vercel.app/
+tecnologia: JS, HTML, CSS
+tipo: Frontend
+
+https://github.com/sistemas-saas-restaurante/gestao-estoque
+https://github.com/sistemas-saas-restaurante/restpedacinhodoceu.com.br
+https://github.com/sistemas-saas-restaurante/dados-pedacinhodoceu
+https://github.com/sistemas-saas-restaurante/garcons
+https://github.com/sistemas-saas-restaurante/blog.pedacinhodoceu.com.br
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
+
+nome projeto: 
+descrição: 
+repositório: 
+site: 
+tecnologia: 
+tipo: 
