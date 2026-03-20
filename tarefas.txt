@@ -48,3 +48,4 @@ Features para o sistema
 28. Na rota home, tem que colocar uma secao de "Para quem é?" igual ao site https://www.rocketseat.com.br/ (Claude)
 29. Na rota home, tem que colocar uma secao de "Solução completa_" igual ao site https://www.rocketseat.com.br/ (Claude)
 30. La no rodape, tem que colocar um popup de Queremos o seu Feedback, nesse popup vai ter "Como está sendo sua experiência no site?" igual ao site https://www.rocketseat.com.br/ e deve salvar as informacoes no painel do adm. (Claude)
+31. La na url do site, para cada rota, como exemplo o sobre, la na url em cima ao lado do icone, tem que colocar a informacao de sobre. (Claude)
