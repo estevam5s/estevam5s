@@ -1,36 +1,41 @@
-- Desenvolver pacotes ao NPM.
-- Criar uma versão do sistema do LTD para o dispositivo móvel e desktop.
-- Criar ferramentas de analise de dados e cyber.
+
 - Pessoa responsável por criar posts ao blog.
 - Pessoa responsável pela gestão, marketing, banco de dados, infra, cybersec.
-- Criar artigos para o sistema do LTD.
 - Pessoa responsável pelas melhorias e features para o site do LTD.
-- Criar uma organização no LTD.
-- Pessoa responsável pelo desenvolvimento mobile.
-- Desenvolver API's para o sistema.
 - Pessoa responsável por criar documentação para cada desenvolvedor no Overleaf LaTex.
+- Pessoa responsável pelo desenvolvimento mobile.
+- Criar artigos para o sistema do LTD. (Latex + Kilo)
+- Desenvolver pacotes ao NPM. (Claude)
+- Criar ferramentas de analise de dados e cyber. (Claude)
+- Criar uma organização no LTD.
+- Desenvolver API's para o sistema. (Claude)
 - Devem discutir qual seria o subdomínio ao site.
 - Terá que criar novas tarefas ao time.
 - Discutir um novo logo (slogan) ao site do sistema.
-- Pegar o sistema que gera folder.
+- Pegar o sistema que gera folder. (http://github.com/estevam5s/folder-generate)
 - Utilizar uma IA no WhatsApp que roda 24/7 na minha VPS, só que precisa de o app WhatsApp Business.
 - Criar uma extensão para o VSCODE que seria uma ferramenta para só os alunos do LTD, onde, lá no painel do ADM do site do LTD, ele gera login e API Key para cada aluno (gerencia os alunos lá, coloca documentos) essa extensão para o VSCODE, vai se conectar com os repositórios da organização no LTD e poderá ver o gráfico de evolução dos projetos, salvara as informações de perfil, o aluno poderá administrar os projetos por lá, terá uma interface de gerenciamento de projetos, etc.
 
 Features para o sistema
 
-1. Tem que ter uma rota de canal de comunicação onde vai ser possivel se comunicar com o painel do adm e ser possivel transmitir a conversa para os alunos.
-2. Colocar uma funcionalidade que quando clica na imagem, aparece umas funcionalidades atras que seria descrições, ela tem que ter um efeito de transição e quando clica novamente, ela volta na imagem, a imagem seria aquela da descrição "Nossa Plataforma" do site "https://ltd-analise-de-business-plans.vercel.app/".
-3. Adicionar responsividade nos paineis do adm e dos clientes.
-4. Nas rotas acima, deve melhorar o layout para ser mais profissional
-5. No próprio painel do ADM, lá vai ter a opção de gerenciar as tarefas e ser possível enviar ao e-mail da pessoa para concluir as tarefas e usar o github projects para gerenciar as tarefas.
+1. Tem que ter uma rota de canal de comunicação onde vai ser possivel se comunicar com o painel do adm e ser possivel transmitir a conversa para os alunos. (Claude)
+2. Colocar uma funcionalidade que quando clica na imagem, aparece umas funcionalidades atras que seria descrições, ela tem que ter um efeito de transição e quando clica novamente, ela volta na imagem, a imagem seria aquela da descrição "Nossa Plataforma" do site "https://ltd-analise-de-business-plans.vercel.app/". (Kilo)
+3. Adicionar responsividade nos paineis do adm e dos clientes. (Antigravity)
+4. Nas rotas acima, deve melhorar o layout para ser mais profissional. (Antigravity)
+5. No próprio painel do ADM, lá vai ter a opção de gerenciar as tarefas e ser possível enviar ao e-mail da pessoa para concluir as tarefas e usar o github projects para gerenciar as tarefas. (Claude)
 6. Deve adicionar um subdomínio ao site https://ltd-analise-de-business-plans.vercel.app/ que seria business.ltdestacio.com.br.
-7. Desenvolver o apk do sistema para mobile e desktop (versao linux, windows e macos)
-8. No painel do cliente, adicionar funcionalidade de conexao com a API de terceiros.
-9. Correção de Bugs no sistema.
-10. Adicionar funcionalidade de idioma (esse saas entraria como startup internacional)
-11. No painel do adm, colocar funcionalidade de banco de dados para ver o tamanho disponivel, ver tabelas do banco, se possivel, por la mesmo controlar o supabase de forma avancada.
-12. La no painel do adm, ser possivel escolher o modelo de IA.
-13. Colocar um botao de chatbot com IA usando o modelo da OpenRouter
-14. No painel do Cliente, deve ter uma versao White-label.
-15. No painel do adm, oferecer a solucao de API do sistema e que la, vai ter acesso com dashboard do cliente e o cliente, vai poder utilizar a api do sistema para os seus projetos.
-16. No painel do cliente, ele vai poder utilizar todas as ferramentas de analise de dados criada pela equipe de desenvolvimento. (Cada aluno, vai criar soluções tech).
+7. Desenvolver o apk do sistema para mobile e desktop (versao linux, windows e macos) (Claude)
+8. No painel do cliente, adicionar funcionalidade de conexao com a API de terceiros. (Copilot)
+9. Correção de Bugs no sistema. (Claude)
+10. Adicionar funcionalidade de idioma (esse saas entraria como startup internacional). (Copilot)
+11. No painel do adm, colocar funcionalidade de banco de dados para ver o tamanho disponivel, ver tabelas do banco, se possivel, por la mesmo controlar o supabase de forma avancada. (Copilot)
+12. La no painel do adm, ser possivel escolher o modelo de IA. (Claude)
+13. Colocar um botao de chatbot com IA usando o modelo da OpenRouter. (Claude)
+14. No painel do Cliente, deve ter uma versao White-label. (Copilot)
+15. No painel do adm, oferecer a solucao de API do sistema e que la, vai ter acesso com dashboard do cliente e o cliente, vai poder utilizar a api do sistema para os seus projetos. (Claude)
+16. No painel do cliente, ele vai poder utilizar todas as ferramentas de analise de dados criada pela equipe de desenvolvimento. ada aluno, vai criar soluções tech. (Claude)
+17. Na parte de instalar o app que aparece no site, para instalar, deve ser redirecionado ate o painel do usuario e automaticamente na rota de baixar o apk. (Claude)
+18. Na rota home, la no topo na parte de "Plano de Negócios Inteligente e Dinâmico", tem que colocar uma funcionalidade de ter um fundo animado, com efeitos e mais funcionalidades. (Claude)
+19. Deve colocar a opcao de cookies. (Opencode)
+20. Deve organizar os arquivos sql, fazendo apenas um arquivo sql completo e unico. (Claude)
+21. No painel do usuario, suporte a cloud com uma infra profissional. (Claude)
