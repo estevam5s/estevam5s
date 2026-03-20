@@ -39,3 +39,12 @@ Features para o sistema
 19. Deve colocar a opcao de cookies. (Opencode)
 20. Deve organizar os arquivos sql, fazendo apenas um arquivo sql completo e unico. (Claude)
 21. No painel do usuario, suporte a cloud com uma infra profissional. (Claude)
+22. Pegar o rodape do site https://voltbras.com/ e tentar pegar ideias
+23. Colocar um fundo no topo na rota home igual ao do site https://www.nvseguros.com.br/
+24. Colocar uma imagem do predio da Estacio e uma descricao da Historia do ltd igual ao site https://www.nvseguros.com.br/
+25. Adicionar uma rota sobre os produtos do sistema.
+26. Quando se pesquisa algo na internet, deve colocar as informacoes no site do sistema igual ao da Rocketseat. (Claude)
+27. La no topo do site do sistema, tem que aumentar o tamanho do nome do site igual ao site https://www.rocketseat.com.br/
+28. Na rota home, tem que colocar uma secao de "Para quem é?" igual ao site https://www.rocketseat.com.br/ (Claude)
+29. Na rota home, tem que colocar uma secao de "Solução completa_" igual ao site https://www.rocketseat.com.br/ (Claude)
+30. La no rodape, tem que colocar um popup de Queremos o seu Feedback, nesse popup vai ter "Como está sendo sua experiência no site?" igual ao site https://www.rocketseat.com.br/ e deve salvar as informacoes no painel do adm. (Claude)
