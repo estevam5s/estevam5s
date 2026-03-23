@@ -9,6 +9,8 @@ E deve colocar o link de cada Rede social no rodape, so que faltou a organizacao
 
 Deve comprar um dominio no registro BR
 
+Discutir nomes para o site atraves do site: "https://startupnamegenerator.ai/"
+
 ---
 
 Na parte de:
@@ -67,3 +69,15 @@ No painel do adm, alunos e usuarios, deve colocar uma funcionalidade de seguranc
 ---
 
 Quando se estar em uma rota especifica e tenta ir ate a rota de Home, tem uma funcionalidade de espera que seria "Carregando", acho que seria uns 2 segundos aí ele acessa essa rota, so que deve ampliar para todas as rotas do site, inclusive em todas as rotas de login "(admin, alunos e usuarios)" e deve colocar um efeito de carregamento que seria carregamento com efeito para a area de analise de dados, um efeito bastante eficaz e que remete essa area de dados.
+
+---
+
+Colocar o efeito da seção "Built to scale" do site "https://startupnamegenerator.ai/"
+
+---
+
+Colocar o efeito de comentarios com foto e nome da secao de "What our users are saying" do site "https://startupnamegenerator.ai/"
+
+---
+
+
