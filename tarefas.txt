@@ -1,51 +1,69 @@
+Deve ter pessoas responsavel pelo:
 
-- Pessoa responsável por criar posts ao blog.
-- Pessoa responsável pela gestão, marketing, banco de dados, infra, cybersec.
-- Pessoa responsável pelas melhorias e features para o site do LTD.
-- Pessoa responsável por criar documentação para cada desenvolvedor no Overleaf LaTex.
-- Pessoa responsável pelo desenvolvimento mobile.
-- Criar artigos para o sistema do LTD. (Latex + Kilo)
-- Desenvolver pacotes ao NPM. (Claude)
-- Criar ferramentas de analise de dados e cyber. (Claude)
-- Criar uma organização no LTD.
-- Desenvolver API's para o sistema. (Claude)
-- Devem discutir qual seria o subdomínio ao site.
-- Terá que criar novas tarefas ao time.
-- Discutir um novo logo (slogan) ao site do sistema.
-- Pegar o sistema que gera folder. (http://github.com/estevam5s/folder-generate)
-- Utilizar uma IA no WhatsApp que roda 24/7 na minha VPS, só que precisa de o app WhatsApp Business.
-- Criar uma extensão para o VSCODE que seria uma ferramenta para só os alunos do LTD, onde, lá no painel do ADM do site do LTD, ele gera login e API Key para cada aluno (gerencia os alunos lá, coloca documentos) essa extensão para o VSCODE, vai se conectar com os repositórios da organização no LTD e poderá ver o gráfico de evolução dos projetos, salvara as informações de perfil, o aluno poderá administrar os projetos por lá, terá uma interface de gerenciamento de projetos, etc.
+Instagram
+Youtube
+Linkedin (Deve criar uma pagina la no Linkedin (Eu posso ficar responsavel por essa parte))
+Twiter "X"
 
-Features para o sistema
+E deve colocar o link de cada Rede social no rodape, so que faltou a organizacao do Github (Deve criar uma nova para esse projeto, o icone para a organizacao desse site deve ser o mesmo logo e para a organizacao no github)
 
-1. Tem que ter uma rota de canal de comunicação onde vai ser possivel se comunicar com o painel do adm e ser possivel transmitir a conversa para os alunos. (Claude)
-2. Colocar uma funcionalidade que quando clica na imagem, aparece umas funcionalidades atras que seria descrições, ela tem que ter um efeito de transição e quando clica novamente, ela volta na imagem, a imagem seria aquela da descrição "Nossa Plataforma" do site "https://ltd-analise-de-business-plans.vercel.app/". (Kilo)
-3. Adicionar responsividade nos paineis do adm e dos clientes. (Antigravity)
-4. Nas rotas acima, deve melhorar o layout para ser mais profissional. (Antigravity)
-5. No próprio painel do ADM, lá vai ter a opção de gerenciar as tarefas e ser possível enviar ao e-mail da pessoa para concluir as tarefas e usar o github projects para gerenciar as tarefas. (Claude)
-6. Deve adicionar um subdomínio ao site https://ltd-analise-de-business-plans.vercel.app/ que seria business.ltdestacio.com.br.
-7. Desenvolver o apk do sistema para mobile e desktop (versao linux, windows e macos) (Claude)
-8. No painel do cliente, adicionar funcionalidade de conexao com a API de terceiros. (Copilot)
-9. Correção de Bugs no sistema. (Claude)
-10. Adicionar funcionalidade de idioma (esse saas entraria como startup internacional). (Copilot)
-11. No painel do adm, colocar funcionalidade de banco de dados para ver o tamanho disponivel, ver tabelas do banco, se possivel, por la mesmo controlar o supabase de forma avancada. (Copilot)
-12. La no painel do adm, ser possivel escolher o modelo de IA. (Claude)
-13. Colocar um botao de chatbot com IA usando o modelo da OpenRouter. (Claude)
-14. No painel do Cliente, deve ter uma versao White-label. (Copilot)
-15. No painel do adm, oferecer a solucao de API do sistema e que la, vai ter acesso com dashboard do cliente e o cliente, vai poder utilizar a api do sistema para os seus projetos. (Claude)
-16. No painel do cliente, ele vai poder utilizar todas as ferramentas de analise de dados criada pela equipe de desenvolvimento. ada aluno, vai criar soluções tech. (Claude)
-17. Na parte de instalar o app que aparece no site, para instalar, deve ser redirecionado ate o painel do usuario e automaticamente na rota de baixar o apk. (Claude)
-18. Na rota home, la no topo na parte de "Plano de Negócios Inteligente e Dinâmico", tem que colocar uma funcionalidade de ter um fundo animado, com efeitos e mais funcionalidades. (Claude)
-19. Deve colocar a opcao de cookies. (Opencode)
-20. Deve organizar os arquivos sql, fazendo apenas um arquivo sql completo e unico. (Claude)
-21. No painel do usuario, suporte a cloud com uma infra profissional. (Claude)
-22. Pegar o rodape do site https://voltbras.com/ e tentar pegar ideias
-23. Colocar um fundo no topo na rota home igual ao do site https://www.nvseguros.com.br/
-24. Colocar uma imagem do predio da Estacio e uma descricao da Historia do ltd igual ao site https://www.nvseguros.com.br/
-25. Adicionar uma rota sobre os produtos do sistema.
-26. Quando se pesquisa algo na internet, deve colocar as informacoes no site do sistema igual ao da Rocketseat. (Claude)
-27. La no topo do site do sistema, tem que aumentar o tamanho do nome do site igual ao site https://www.rocketseat.com.br/
-28. Na rota home, tem que colocar uma secao de "Para quem é?" igual ao site https://www.rocketseat.com.br/ (Claude)
-29. Na rota home, tem que colocar uma secao de "Solução completa_" igual ao site https://www.rocketseat.com.br/ (Claude)
-30. La no rodape, tem que colocar um popup de Queremos o seu Feedback, nesse popup vai ter "Como está sendo sua experiência no site?" igual ao site https://www.rocketseat.com.br/ e deve salvar as informacoes no painel do adm. (Claude)
-31. La na url do site, para cada rota, como exemplo o sobre, la na url em cima ao lado do icone, tem que colocar a informacao de sobre. (Claude)
+Deve comprar um dominio no registro BR
+
+---
+
+Na parte de:
+
+Falar com Admin
+Suporte Humano • Responde em 24h
+
+No chat que fica no canto inferior direito no site.
+
+Nao esta sendo implementado corretamente, pois o usuario precisa conversar na hora com o adm (se ele estiver disponivel) e nao mandar um email (quando ele preenche, o email vai enviado "Mensagem enviada!"), pois precisa ser um chat em tempo real, ali na hora, os dois consegue conversar um com o outro e deve ter a opcao do adm transferir a conversao ao aluno disponivel (essa funcionalidade acho que ja esta implementada).
+
+Resumindo, o usuario consegue conversar com o adm na hora, tipo um chat normal e nao o envio de e-mail.
+
+---
+
+Adicionar uma feature que seria o modelo de linguagem de IA LLM do proprio sistema, pois essa solucao o sistema deve ter, ai seria um software ja com o modelo de IA do proprio sistema, o nome da LLM seria "NexaBrain"
+
+---
+
+Na rota Home, tem a seção "O Que Nossos Usuários Dizem", essa parte, cada usuario pode dar comentarios para o sistema, deve criar uma rota la no painel do usuario "/dashboard" e la no painel do adm, o adm pode ou nao aprovar o comentario, deve criar um arquivo sql no diretorio "supabase/migrations" e la no arquivo sql completo, deve implementar com as novas tabelas. O usuario comentando e o adm aprovando, deve ser implementado no site.
+
+---
+
+Na rota Home, tem a seção "mentes por trás do projeto", essa parte, cada aluno cadastrado vai aparecer nessa secao, vai ter a opcao de gerenciar os alunos, e deve ser refletido no site.
+
+---
+
+A navbar onde tem as rotas e subrotas, ao passar o mouse por cima da rota que tem subrtotas, o fundo fica terrivel quando se esta no modo dark de tema do site, deve melhorar essa parte.
+
+---
+
+Na rota "/produtos" deve ter a funcionalidade de banco de dados, onde la no painel do adm, ele vai gerenciar as informacoes e deve ser refletido no site dessa rota. A parte de "Integrações", deve mostrar as integrações com os seus respectivos icones reais e deve ter movimentacao da esquerda para direita, com um fundo profissional e deve ter um efeito profissional.
+
+---
+
+Na rota "/funcionalidades" deve ter a funcionalidade de banco de dados, onde la no painel do adm, ele vai gerenciar as informacoes e deve ser refletido no site dessa rota. Vai ter que criar uma rota no painel do adm e todas as informacoes dessa rota, "/funcionalidades", deve criar uma tabela no banco de dados no arquivo no diretorio "supabase/migrations" e la no arquivo sql completo, deve implementar com as novas tabelas.
+
+---
+
+Na rota "/carreiras", la no painel do adm, deve criar uma rota onde seria para colocar as vagas disponiveis, la o adm, pode gerenciar todas as vagas, processos seletivos, pré-requisitos, stack sugerida, descricao para a vaga, cargo, etc ... Deve criar uma tabela completa, fazer um arquivo sql completo arquivo sql no diretorio "supabase/migrations" e la no arquivo sql completo, deve implementar com as novas tabelas.
+As informacoes que o adm gerencia la no painel adm, deve ser refletido na rota "/carreiras", mas analise essa rota para ver como que funciona.
+
+---
+
+Na rota "/comunidade", deve la no painel do adm, criar uma rota onde podera admnistrar todas essas informacoes que tem na rota "/comunidade", os numeros, informacoes, deve estar tudo no arquivo sql, fazer um arquivo sql completo arquivo sql no diretorio "supabase/migrations" e la no arquivo sql completo, deve implementar com as novas tabelas.
+Nessa rota de "/comunidade", deve colocar um link para os usuario acessarem o canal da empresa no Discord. E nessa rota "", tem a parte do whatsapp e o whatsapp deve ficar no meu servidor com a IA da empresa.
+
+---
+
+No painel do usuario, "/dashboard", ele vai ter direito a toda a documentacao do projeto (tem que analisar a fundo a estrutura completa do projeto, codigo fonte, pois precisa conter toda as features e aplicacoes), vai ter que criar uma rota, onde essa rota vai saber se o usuario esta logado ou nao, vai ter que ter toda uma interface completa e avancada ou a documentacao do Nestjs (nao copiar essa doc, mas sim, se inspirar nela), toda organizada e bem estruturada.
+
+---
+
+No painel do adm, alunos e usuarios, deve colocar uma funcionalidade de seguranca, uma camada de seguranca, onde o usuario podera admnistrar la na rota de configuracoes de cada rotas acima, que seria o tempo de secao, caso a secao estiver inativa, vai ser deslogado do sistema. Fazer um arquivo sql completo arquivo sql no diretorio "supabase/migrations" e la no arquivo sql completo, deve implementar com as novas tabelas.
+
+---
+
+Quando se estar em uma rota especifica e tenta ir ate a rota de Home, tem uma funcionalidade de espera que seria "Carregando", acho que seria uns 2 segundos aí ele acessa essa rota, so que deve ampliar para todas as rotas do site, inclusive em todas as rotas de login "(admin, alunos e usuarios)" e deve colocar um efeito de carregamento que seria carregamento com efeito para a area de analise de dados, um efeito bastante eficaz e que remete essa area de dados.
